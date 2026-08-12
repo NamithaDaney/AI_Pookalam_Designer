@@ -1,0 +1,616 @@
+design_id,design_name,budget,theme,style,layers,difficulty,primary_flower,secondary_flower,accent_flower,primary_color,secondary_color,accent_color,diameter_ft,estimated_time_hr,people_required,occasion,description,flower_diversity,color_diversity,estimated_flower_cost
+6,Star Design 6,2000,Traditional,Star,8,Hard,Chrysanthemum,Orchid,Tuberose,White,Purple,White,4,4.8,4,School,Traditional star design,3,2,1452.2
+7,Peacock Design 7,800,Traditional,Peacock,6,Medium,Chrysanthemum,Lotus,Tuberose,White,Pink,White,3,3.6,4,Competition,Traditional peacock design,3,2,887.1
+8,Peacock Design 8,1200,Temple,Peacock,5,Easy,Marigold,Daisy,Rose,Yellow,White,Pink,4,3.0,4,Home,Temple peacock design,3,3,1216.4
+9,Circular Design 9,2000,Temple,Circular,4,Easy,Chrysanthemum,Daisy,Tuberose,White,White,White,4,2.4,4,Home,Temple circular design,3,1,812.4
+10,Lotus Design 10,1800,Modern,Lotus,6,Medium,Daisy,Lotus,Rose,White,Pink,Pink,4,3.6,3,Home,Modern lotus design,3,2,841.6
+11,Lotus Design 11,800,Temple,Lotus,9,Hard,Daisy,Jasmine,Rose,White,White,Pink,3,5.4,3,Office,Temple lotus design,3,2,1176.6
+12,Peacock Design 12,600,Traditional,Peacock,5,Easy,Daisy,Rose,Jasmine,White,Pink,White,3,3.0,4,Office,Traditional peacock design,3,2,1922.0
+13,Temple Style Design 13,1000,Temple,Temple Style,5,Easy,Chrysanthemum,Marigold,Orchid,White,Yellow,Purple,4,3.0,3,Home,Temple temple style design,3,3,1224.4
+14,Peacock Design 14,1000,Temple,Peacock,4,Easy,Tuberose,Lotus,Daisy,White,Pink,White,7,2.4,4,Home,Temple peacock design,3,2,1050.0
+15,Star Design 15,1500,Floral,Star,8,Hard,Lotus,Rose,Daisy,Pink,Pink,White,3,4.8,5,Office,Floral star design,3,2,965.6
+16,Lotus Design 16,1800,Floral,Lotus,7,Medium,Jasmine,Orchid,Lotus,White,Purple,Pink,3,4.2,5,School,Floral lotus design,3,3,941.0
+17,Peacock Design 17,1500,Traditional,Peacock,7,Medium,Marigold,Daisy,Tuberose,Yellow,White,White,8,4.2,2,Home,Traditional peacock design,3,2,860.2
+18,Temple Style Design 18,1200,Modern,Temple Style,7,Medium,Chrysanthemum,Tuberose,Lotus,White,White,Pink,4,4.2,5,Home,Modern temple style design,3,2,2536.2
+19,Star Design 19,800,Traditional,Star,8,Hard,Tuberose,Jasmine,Daisy,White,White,White,7,4.8,3,Office,Traditional star design,3,1,1704.7
+20,Lotus Design 20,2000,Modern,Lotus,9,Hard,Jasmine,Lotus,Marigold,White,Pink,Yellow,5,5.4,3,Home,Modern lotus design,3,3,1661.5
+21,Star Design 21,1500,Temple,Star,5,Easy,Jasmine,Daisy,Rose,White,White,Pink,6,3.0,3,School,Temple star design,3,2,1244.3
+22,Temple Style Design 22,1200,Temple,Temple Style,8,Hard,Daisy,Jasmine,Rose,White,White,Pink,7,4.8,4,Home,Temple temple style design,3,2,1045.9
+23,Lotus Design 23,1200,Modern,Lotus,4,Easy,Jasmine,Tuberose,Daisy,White,White,White,6,2.4,2,Office,Modern lotus design,3,1,881.2
+24,Lotus Design 24,1200,Floral,Lotus,5,Easy,Marigold,Tuberose,Lotus,Yellow,White,Pink,6,3.0,3,Home,Floral lotus design,3,3,1470.9
+25,Lotus Design 25,2000,Modern,Lotus,9,Hard,Lotus,Rose,Marigold,Pink,Pink,Yellow,5,5.4,4,Home,Modern lotus design,3,2,1052.5
+26,Lotus Design 26,1800,Modern,Lotus,9,Hard,Chrysanthemum,Tuberose,Orchid,White,White,Purple,7,5.4,4,Home,Modern lotus design,3,2,1418.4
+27,Peacock Design 27,600,Modern,Peacock,5,Easy,Orchid,Daisy,Jasmine,Purple,White,White,8,3.0,5,Competition,Modern peacock design,3,2,1416.6
+28,Star Design 28,1800,Modern,Star,9,Hard,Daisy,Marigold,Lotus,White,Yellow,Pink,8,5.4,2,School,Modern star design,3,3,729.5
+29,Circular Design 29,2000,Temple,Circular,9,Hard,Jasmine,Chrysanthemum,Daisy,White,White,White,7,5.4,5,Competition,Temple circular design,3,1,856.3
+30,Circular Design 30,600,Traditional,Circular,4,Easy,Daisy,Chrysanthemum,Lotus,White,White,Pink,7,2.4,4,Competition,Traditional circular design,3,2,710.4
+31,Star Design 31,1000,Modern,Star,7,Medium,Tuberose,Marigold,Lotus,White,Yellow,Pink,4,4.2,2,School,Modern star design,3,3,911.7
+32,Peacock Design 32,600,Floral,Peacock,7,Medium,Chrysanthemum,Rose,Lotus,White,Pink,Pink,6,4.2,3,School,Floral peacock design,3,2,1612.3
+33,Lotus Design 33,1500,Floral,Lotus,7,Medium,Tuberose,Lotus,Orchid,White,Pink,Purple,8,4.2,5,School,Floral lotus design,3,3,1682.9
+34,Circular Design 34,2000,Traditional,Circular,9,Hard,Tuberose,Jasmine,Marigold,White,White,Yellow,5,5.4,5,School,Traditional circular design,3,2,1600.1
+35,Peacock Design 35,600,Temple,Peacock,4,Easy,Tuberose,Chrysanthemum,Lotus,White,White,Pink,4,2.4,3,School,Temple peacock design,3,2,605.1
+36,Circular Design 36,600,Temple,Circular,8,Hard,Daisy,Tuberose,Rose,White,White,Pink,4,4.8,5,Office,Temple circular design,3,2,1259.7
+37,Lotus Design 37,1000,Traditional,Lotus,8,Hard,Daisy,Orchid,Jasmine,White,Purple,White,3,4.8,5,Competition,Traditional lotus design,3,2,1350.9
+38,Temple Style Design 38,1500,Temple,Temple Style,7,Medium,Jasmine,Rose,Orchid,White,Pink,Purple,8,4.2,3,Competition,Temple temple style design,3,3,1779.1
+39,Temple Style Design 39,800,Modern,Temple Style,6,Medium,Lotus,Orchid,Jasmine,Pink,Purple,White,5,3.6,4,Competition,Modern temple style design,3,3,1642.9
+40,Circular Design 40,1800,Floral,Circular,5,Easy,Chrysanthemum,Marigold,Jasmine,White,Yellow,White,3,3.0,3,Office,Floral circular design,3,2,671.7
+41,Temple Style Design 41,1500,Temple,Temple Style,4,Easy,Marigold,Daisy,Rose,Yellow,White,Pink,8,2.4,4,Competition,Temple temple style design,3,3,1174.1
+42,Lotus Design 42,800,Traditional,Lotus,4,Easy,Chrysanthemum,Daisy,Tuberose,White,White,White,6,2.4,4,Competition,Traditional lotus design,3,1,1882.9
+43,Circular Design 43,1000,Temple,Circular,6,Medium,Orchid,Rose,Tuberose,Purple,Pink,White,6,3.6,3,Office,Temple circular design,3,3,1821.1
+44,Star Design 44,2000,Modern,Star,4,Easy,Lotus,Orchid,Chrysanthemum,Pink,Purple,White,6,2.4,4,Home,Modern star design,3,3,917.1
+45,Circular Design 45,800,Traditional,Circular,6,Medium,Jasmine,Marigold,Chrysanthemum,White,Yellow,White,3,3.6,4,Home,Traditional circular design,3,2,1376.0
+46,Peacock Design 46,2000,Traditional,Peacock,7,Medium,Rose,Marigold,Tuberose,Pink,Yellow,White,8,4.2,3,School,Traditional peacock design,3,3,673.3
+47,Lotus Design 47,1500,Temple,Lotus,6,Medium,Marigold,Chrysanthemum,Rose,Yellow,White,Pink,8,3.6,4,Office,Temple lotus design,3,3,976.5
+48,Peacock Design 48,1500,Traditional,Peacock,8,Hard,Marigold,Daisy,Rose,Yellow,White,Pink,5,4.8,4,School,Traditional peacock design,3,3,1484.1
+49,Circular Design 49,1500,Floral,Circular,6,Medium,Marigold,Rose,Orchid,Yellow,Pink,Purple,6,3.6,3,Home,Floral circular design,3,3,1566.1
+50,Star Design 50,1500,Temple,Star,7,Medium,Marigold,Rose,Jasmine,Yellow,Pink,White,7,4.2,5,Office,Temple star design,3,3,1367.7
+51,Peacock Design 51,1200,Temple,Peacock,9,Hard,Lotus,Chrysanthemum,Jasmine,Pink,White,White,8,5.4,5,Home,Temple peacock design,3,2,833.4
+52,Peacock Design 52,2000,Modern,Peacock,7,Medium,Daisy,Rose,Lotus,White,Pink,Pink,4,4.2,5,Competition,Modern peacock design,3,2,1622.0
+53,Star Design 53,600,Traditional,Star,4,Easy,Daisy,Tuberose,Lotus,White,White,Pink,5,2.4,2,School,Traditional star design,3,2,1899.6
+54,Star Design 54,800,Floral,Star,7,Medium,Chrysanthemum,Marigold,Lotus,White,Yellow,Pink,5,4.2,3,Office,Floral star design,3,3,2174.2
+55,Temple Style Design 55,2000,Modern,Temple Style,5,Easy,Marigold,Jasmine,Rose,Yellow,White,Pink,5,3.0,5,School,Modern temple style design,3,3,1352.4
+56,Peacock Design 56,1000,Modern,Peacock,5,Easy,Lotus,Rose,Orchid,Pink,Pink,Purple,8,3.0,4,Office,Modern peacock design,3,2,1658.0
+57,Temple Style Design 57,800,Floral,Temple Style,8,Hard,Jasmine,Chrysanthemum,Tuberose,White,White,White,4,4.8,2,School,Floral temple style design,3,1,1874.4
+58,Lotus Design 58,800,Floral,Lotus,5,Easy,Marigold,Daisy,Rose,Yellow,White,Pink,7,3.0,4,Office,Floral lotus design,3,3,654.6
+59,Circular Design 59,800,Modern,Circular,5,Easy,Jasmine,Lotus,Chrysanthemum,White,Pink,White,4,3.0,4,Competition,Modern circular design,3,2,1296.6
+60,Lotus Design 60,1000,Temple,Lotus,8,Hard,Marigold,Daisy,Chrysanthemum,Yellow,White,White,3,4.8,4,School,Temple lotus design,3,2,987.0
+61,Star Design 61,800,Temple,Star,4,Easy,Rose,Chrysanthemum,Jasmine,Pink,White,White,3,2.4,2,Competition,Temple star design,3,2,1793.4
+62,Temple Style Design 62,600,Traditional,Temple Style,8,Hard,Rose,Lotus,Orchid,Pink,Pink,Purple,7,4.8,3,Home,Traditional temple style design,3,2,1629.5
+63,Star Design 63,1200,Traditional,Star,9,Hard,Chrysanthemum,Rose,Orchid,White,Pink,Purple,6,5.4,5,Competition,Traditional star design,3,3,853.2
+64,Temple Style Design 64,1000,Temple,Temple Style,6,Medium,Rose,Tuberose,Marigold,Pink,White,Yellow,7,3.6,2,School,Temple temple style design,3,3,1236.3
+65,Lotus Design 65,800,Floral,Lotus,7,Medium,Orchid,Jasmine,Rose,Purple,White,Pink,6,4.2,5,Office,Floral lotus design,3,3,1159.2
+66,Star Design 66,2000,Traditional,Star,6,Medium,Jasmine,Marigold,Daisy,White,Yellow,White,6,3.6,5,Competition,Traditional star design,3,2,1979.5
+67,Star Design 67,1800,Floral,Star,6,Medium,Orchid,Daisy,Tuberose,Purple,White,White,8,3.6,5,Home,Floral star design,3,2,1280.0
+68,Peacock Design 68,1500,Modern,Peacock,9,Hard,Daisy,Marigold,Orchid,White,Yellow,Purple,5,5.4,2,Home,Modern peacock design,3,3,319.9
+69,Lotus Design 69,1800,Traditional,Lotus,7,Medium,Rose,Lotus,Orchid,Pink,Pink,Purple,6,4.2,3,School,Traditional lotus design,3,2,1863.8
+70,Lotus Design 70,2000,Floral,Lotus,7,Medium,Jasmine,Daisy,Rose,White,White,Pink,7,4.2,2,Office,Floral lotus design,3,2,875.9
+71,Lotus Design 71,1500,Temple,Lotus,6,Medium,Marigold,Lotus,Orchid,Yellow,Pink,Purple,4,3.6,4,Home,Temple lotus design,3,3,2336.4
+72,Peacock Design 72,600,Floral,Peacock,8,Hard,Rose,Lotus,Marigold,Pink,Pink,Yellow,4,4.8,2,School,Floral peacock design,3,2,599.6
+73,Star Design 73,2000,Traditional,Star,9,Hard,Orchid,Daisy,Rose,Purple,White,Pink,3,5.4,2,School,Traditional star design,3,3,1068.6
+74,Temple Style Design 74,1800,Modern,Temple Style,8,Hard,Lotus,Tuberose,Jasmine,Pink,White,White,6,4.8,3,Home,Modern temple style design,3,2,2292.2
+75,Circular Design 75,1500,Modern,Circular,9,Hard,Marigold,Chrysanthemum,Lotus,Yellow,White,Pink,5,5.4,5,School,Modern circular design,3,3,592.0
+76,Temple Style Design 76,600,Modern,Temple Style,4,Easy,Chrysanthemum,Jasmine,Orchid,White,White,Purple,7,2.4,3,Home,Modern temple style design,3,2,1182.7
+77,Circular Design 77,1200,Floral,Circular,7,Medium,Chrysanthemum,Tuberose,Orchid,White,White,Purple,7,4.2,4,Home,Floral circular design,3,2,1557.9
+78,Circular Design 78,600,Modern,Circular,5,Easy,Rose,Jasmine,Lotus,Pink,White,Pink,4,3.0,5,Home,Modern circular design,3,2,1671.1
+79,Star Design 79,1800,Traditional,Star,7,Medium,Marigold,Jasmine,Daisy,Yellow,White,White,7,4.2,2,Home,Traditional star design,3,2,1265.5
+80,Star Design 80,1500,Modern,Star,4,Easy,Daisy,Tuberose,Marigold,White,White,Yellow,5,2.4,3,School,Modern star design,3,2,760.7
+81,Peacock Design 81,1500,Modern,Peacock,9,Hard,Rose,Lotus,Orchid,Pink,Pink,Purple,3,5.4,3,Office,Modern peacock design,3,2,1444.8
+82,Peacock Design 82,800,Temple,Peacock,6,Medium,Daisy,Chrysanthemum,Orchid,White,White,Purple,3,3.6,2,Home,Temple peacock design,3,2,2089.7
+83,Peacock Design 83,800,Temple,Peacock,9,Hard,Marigold,Orchid,Tuberose,Yellow,Purple,White,3,5.4,3,School,Temple peacock design,3,3,824.0
+84,Lotus Design 84,1000,Temple,Lotus,4,Easy,Chrysanthemum,Daisy,Rose,White,White,Pink,3,2.4,5,Competition,Temple lotus design,3,2,661.8
+85,Lotus Design 85,1500,Floral,Lotus,6,Medium,Rose,Tuberose,Orchid,Pink,White,Purple,6,3.6,3,Office,Floral lotus design,3,3,1170.5
+86,Temple Style Design 86,1800,Modern,Temple Style,7,Medium,Marigold,Tuberose,Rose,Yellow,White,Pink,6,4.2,3,School,Modern temple style design,3,3,610.4
+87,Star Design 87,600,Modern,Star,8,Hard,Chrysanthemum,Daisy,Marigold,White,White,Yellow,8,4.8,4,Competition,Modern star design,3,2,1202.1
+88,Lotus Design 88,1000,Temple,Lotus,8,Hard,Chrysanthemum,Daisy,Tuberose,White,White,White,6,4.8,3,Competition,Temple lotus design,3,1,1109.3
+89,Star Design 89,1500,Traditional,Star,4,Easy,Rose,Orchid,Jasmine,Pink,Purple,White,5,2.4,3,Office,Traditional star design,3,3,2025.3
+90,Star Design 90,800,Floral,Star,7,Medium,Chrysanthemum,Daisy,Orchid,White,White,Purple,5,4.2,2,Home,Floral star design,3,2,1132.0
+91,Lotus Design 91,1000,Traditional,Lotus,4,Easy,Jasmine,Chrysanthemum,Rose,White,White,Pink,7,2.4,5,Office,Traditional lotus design,3,2,825.2
+92,Temple Style Design 92,1500,Traditional,Temple Style,9,Hard,Chrysanthemum,Jasmine,Marigold,White,White,Yellow,4,5.4,5,Home,Traditional temple style design,3,2,1447.0
+93,Star Design 93,600,Traditional,Star,6,Medium,Jasmine,Daisy,Rose,White,White,Pink,7,3.6,5,Competition,Traditional star design,3,2,2213.8
+94,Star Design 94,1500,Floral,Star,5,Easy,Chrysanthemum,Tuberose,Jasmine,White,White,White,4,3.0,5,School,Floral star design,3,1,2171.7
+95,Peacock Design 95,1000,Temple,Peacock,4,Easy,Jasmine,Rose,Daisy,White,Pink,White,6,2.4,2,Competition,Temple peacock design,3,2,393.6
+96,Peacock Design 96,600,Temple,Peacock,7,Medium,Lotus,Daisy,Chrysanthemum,Pink,White,White,3,4.2,2,Competition,Temple peacock design,3,2,792.0
+97,Star Design 97,600,Traditional,Star,4,Easy,Orchid,Chrysanthemum,Daisy,Purple,White,White,8,2.4,5,School,Traditional star design,3,2,1004.3
+98,Star Design 98,1500,Temple,Star,4,Easy,Daisy,Lotus,Marigold,White,Pink,Yellow,8,2.4,5,Home,Temple star design,3,3,924.0
+99,Temple Style Design 99,800,Temple,Temple Style,8,Hard,Marigold,Orchid,Daisy,Yellow,Purple,White,5,4.8,4,Home,Temple temple style design,3,3,1006.4
+100,Temple Style Design 100,1200,Modern,Temple Style,5,Easy,Tuberose,Marigold,Daisy,White,Yellow,White,6,3.0,3,Office,Modern temple style design,3,2,581.8
+101,Peacock Design 101,1200,Modern,Peacock,7,Medium,Chrysanthemum,Jasmine,Daisy,White,White,White,6,4.2,3,School,Modern peacock design,3,1,1841.6
+102,Star Design 102,2000,Floral,Star,6,Medium,Orchid,Chrysanthemum,Rose,Purple,White,Pink,7,3.6,2,Office,Floral star design,3,3,1396.3
+103,Circular Design 103,1800,Temple,Circular,9,Hard,Jasmine,Lotus,Chrysanthemum,White,Pink,White,6,5.4,2,Competition,Temple circular design,3,2,421.2
+104,Star Design 104,1500,Traditional,Star,4,Easy,Rose,Marigold,Orchid,Pink,Yellow,Purple,6,2.4,4,Office,Traditional star design,3,3,1476.9
+105,Star Design 105,1500,Traditional,Star,9,Hard,Rose,Marigold,Tuberose,Pink,Yellow,White,7,5.4,5,Home,Traditional star design,3,3,914.2
+106,Lotus Design 106,1200,Traditional,Lotus,7,Medium,Lotus,Rose,Daisy,Pink,Pink,White,8,4.2,3,School,Traditional lotus design,3,2,1434.0
+107,Star Design 107,1800,Modern,Star,4,Easy,Marigold,Rose,Orchid,Yellow,Pink,Purple,5,2.4,3,Competition,Modern star design,3,3,935.9
+108,Circular Design 108,2000,Floral,Circular,7,Medium,Chrysanthemum,Jasmine,Lotus,White,White,Pink,5,4.2,2,Competition,Floral circular design,3,2,846.8
+109,Circular Design 109,1500,Floral,Circular,7,Medium,Marigold,Daisy,Chrysanthemum,Yellow,White,White,8,4.2,4,Home,Floral circular design,3,2,1872.0
+110,Circular Design 110,1000,Modern,Circular,5,Easy,Orchid,Lotus,Daisy,Purple,Pink,White,5,3.0,2,Competition,Modern circular design,3,3,1007.3
+111,Circular Design 111,1000,Traditional,Circular,4,Easy,Tuberose,Daisy,Orchid,White,White,Purple,6,2.4,2,School,Traditional circular design,3,2,1222.1
+112,Peacock Design 112,800,Modern,Peacock,8,Hard,Rose,Daisy,Marigold,Pink,White,Yellow,6,4.8,5,School,Modern peacock design,3,3,728.5
+113,Lotus Design 113,600,Traditional,Lotus,9,Hard,Daisy,Marigold,Rose,White,Yellow,Pink,3,5.4,3,Home,Traditional lotus design,3,3,1411.8
+114,Star Design 114,1000,Temple,Star,8,Hard,Orchid,Marigold,Jasmine,Purple,Yellow,White,3,4.8,4,Competition,Temple star design,3,3,1900.3
+115,Circular Design 115,1000,Floral,Circular,5,Easy,Jasmine,Lotus,Rose,White,Pink,Pink,5,3.0,4,Home,Floral circular design,3,2,1719.1
+116,Circular Design 116,800,Traditional,Circular,5,Easy,Tuberose,Rose,Orchid,White,Pink,Purple,7,3.0,4,Office,Traditional circular design,3,3,1328.4
+117,Circular Design 117,1000,Temple,Circular,5,Easy,Rose,Tuberose,Marigold,Pink,White,Yellow,7,3.0,2,School,Temple circular design,3,3,1304.3
+118,Lotus Design 118,1200,Temple,Lotus,5,Easy,Daisy,Jasmine,Lotus,White,White,Pink,8,3.0,2,Competition,Temple lotus design,3,2,1058.8
+119,Temple Style Design 119,2000,Floral,Temple Style,9,Hard,Orchid,Jasmine,Daisy,Purple,White,White,5,5.4,2,Office,Floral temple style design,3,2,647.3
+120,Peacock Design 120,1800,Traditional,Peacock,6,Medium,Chrysanthemum,Lotus,Marigold,White,Pink,Yellow,3,3.6,3,Competition,Traditional peacock design,3,3,1960.0
+121,Circular Design 121,1500,Traditional,Circular,9,Hard,Lotus,Orchid,Jasmine,Pink,Purple,White,3,5.4,5,Home,Traditional circular design,3,3,567.2
+122,Temple Style Design 122,1200,Temple,Temple Style,4,Easy,Daisy,Rose,Chrysanthemum,White,Pink,White,8,2.4,4,School,Temple temple style design,3,2,434.1
+123,Temple Style Design 123,800,Temple,Temple Style,9,Hard,Tuberose,Lotus,Orchid,White,Pink,Purple,5,5.4,3,School,Temple temple style design,3,3,1618.5
+124,Circular Design 124,1500,Modern,Circular,6,Medium,Chrysanthemum,Marigold,Rose,White,Yellow,Pink,5,3.6,3,Office,Modern circular design,3,3,594.0
+125,Circular Design 125,1500,Modern,Circular,4,Easy,Jasmine,Tuberose,Chrysanthemum,White,White,White,8,2.4,2,Competition,Modern circular design,3,1,2018.9
+126,Temple Style Design 126,1500,Floral,Temple Style,7,Medium,Chrysanthemum,Tuberose,Lotus,White,White,Pink,3,4.2,4,Home,Floral temple style design,3,2,1911.1
+127,Circular Design 127,600,Traditional,Circular,8,Hard,Marigold,Jasmine,Rose,Yellow,White,Pink,7,4.8,4,Office,Traditional circular design,3,3,1478.7
+128,Peacock Design 128,1500,Modern,Peacock,5,Easy,Chrysanthemum,Marigold,Lotus,White,Yellow,Pink,6,3.0,3,Competition,Modern peacock design,3,3,1130.1
+129,Peacock Design 129,600,Modern,Peacock,9,Hard,Chrysanthemum,Daisy,Rose,White,White,Pink,3,5.4,4,School,Modern peacock design,3,2,773.6
+130,Lotus Design 130,600,Modern,Lotus,4,Easy,Chrysanthemum,Daisy,Marigold,White,White,Yellow,3,2.4,5,Competition,Modern lotus design,3,2,926.2
+131,Circular Design 131,1800,Floral,Circular,4,Easy,Chrysanthemum,Daisy,Tuberose,White,White,White,4,2.4,4,Office,Floral circular design,3,1,1129.6
+132,Circular Design 132,2000,Floral,Circular,7,Medium,Rose,Tuberose,Chrysanthemum,Pink,White,White,6,4.2,5,Office,Floral circular design,3,2,783.1
+133,Temple Style Design 133,600,Floral,Temple Style,4,Easy,Chrysanthemum,Jasmine,Daisy,White,White,White,3,2.4,2,Office,Floral temple style design,3,1,1599.0
+134,Circular Design 134,1800,Temple,Circular,5,Easy,Chrysanthemum,Marigold,Tuberose,White,Yellow,White,8,3.0,3,School,Temple circular design,3,2,1035.8
+135,Peacock Design 135,1000,Temple,Peacock,5,Easy,Orchid,Tuberose,Lotus,Purple,White,Pink,3,3.0,5,Office,Temple peacock design,3,3,2485.0
+136,Lotus Design 136,600,Floral,Lotus,9,Hard,Jasmine,Tuberose,Chrysanthemum,White,White,White,5,5.4,4,Competition,Floral lotus design,3,1,1204.6
+137,Circular Design 137,1800,Modern,Circular,9,Hard,Marigold,Chrysanthemum,Jasmine,Yellow,White,White,3,5.4,5,Office,Modern circular design,3,2,750.8
+138,Lotus Design 138,1000,Floral,Lotus,8,Hard,Jasmine,Daisy,Rose,White,White,Pink,7,4.8,4,School,Floral lotus design,3,2,1163.7
+139,Temple Style Design 139,1800,Traditional,Temple Style,5,Easy,Lotus,Tuberose,Marigold,Pink,White,Yellow,8,3.0,4,Office,Traditional temple style design,3,3,1232.3
+140,Temple Style Design 140,1500,Traditional,Temple Style,5,Easy,Orchid,Jasmine,Marigold,Purple,White,Yellow,4,3.0,4,Competition,Traditional temple style design,3,3,1502.0
+141,Peacock Design 141,1200,Floral,Peacock,5,Easy,Daisy,Tuberose,Marigold,White,White,Yellow,4,3.0,3,Home,Floral peacock design,3,2,702.9
+142,Peacock Design 142,1500,Traditional,Peacock,8,Hard,Tuberose,Chrysanthemum,Orchid,White,White,Purple,5,4.8,2,Competition,Traditional peacock design,3,2,2292.9
+143,Circular Design 143,1000,Floral,Circular,7,Medium,Lotus,Orchid,Daisy,Pink,Purple,White,3,4.2,3,Office,Floral circular design,3,3,755.8
+144,Star Design 144,2000,Traditional,Star,8,Hard,Chrysanthemum,Orchid,Daisy,White,Purple,White,8,4.8,2,Office,Traditional star design,3,2,862.4
+145,Lotus Design 145,800,Floral,Lotus,7,Medium,Tuberose,Orchid,Rose,White,Purple,Pink,6,4.2,3,School,Floral lotus design,3,3,1045.1
+146,Circular Design 146,1800,Modern,Circular,4,Easy,Tuberose,Marigold,Daisy,White,Yellow,White,4,2.4,5,Home,Modern circular design,3,2,878.0
+147,Circular Design 147,1200,Temple,Circular,4,Easy,Rose,Chrysanthemum,Jasmine,Pink,White,White,8,2.4,2,Competition,Temple circular design,3,2,1088.1
+148,Lotus Design 148,1000,Temple,Lotus,8,Hard,Rose,Chrysanthemum,Daisy,Pink,White,White,7,4.8,4,Office,Temple lotus design,3,2,1005.9
+149,Circular Design 149,1800,Temple,Circular,6,Medium,Chrysanthemum,Lotus,Jasmine,White,Pink,White,3,3.6,5,Competition,Temple circular design,3,2,988.3
+150,Lotus Design 150,2000,Temple,Lotus,5,Easy,Chrysanthemum,Lotus,Daisy,White,Pink,White,4,3.0,2,School,Temple lotus design,3,2,962.9
+151,Lotus Design 151,1500,Modern,Lotus,6,Medium,Rose,Tuberose,Orchid,Pink,White,Purple,3,3.6,3,Home,Modern lotus design,3,3,1260.4
+152,Temple Style Design 152,1000,Floral,Temple Style,6,Medium,Chrysanthemum,Lotus,Marigold,White,Pink,Yellow,6,3.6,3,Office,Floral temple style design,3,3,1495.0
+153,Temple Style Design 153,1800,Temple,Temple Style,5,Easy,Rose,Orchid,Daisy,Pink,Purple,White,5,3.0,5,Office,Temple temple style design,3,3,1542.4
+154,Peacock Design 154,1500,Traditional,Peacock,8,Hard,Lotus,Chrysanthemum,Orchid,Pink,White,Purple,7,4.8,5,School,Traditional peacock design,3,3,1286.1
+155,Star Design 155,600,Temple,Star,7,Medium,Marigold,Tuberose,Daisy,Yellow,White,White,5,4.2,4,Office,Temple star design,3,2,473.8
+156,Star Design 156,1500,Floral,Star,4,Easy,Marigold,Lotus,Tuberose,Yellow,Pink,White,6,2.4,4,Office,Floral star design,3,3,694.2
+157,Temple Style Design 157,2000,Floral,Temple Style,5,Easy,Jasmine,Tuberose,Orchid,White,White,Purple,7,3.0,4,School,Floral temple style design,3,2,1410.2
+158,Peacock Design 158,2000,Traditional,Peacock,9,Hard,Rose,Daisy,Tuberose,Pink,White,White,5,5.4,4,Competition,Traditional peacock design,3,2,907.6
+159,Star Design 159,1500,Traditional,Star,4,Easy,Lotus,Jasmine,Marigold,Pink,White,Yellow,4,2.4,4,Home,Traditional star design,3,3,779.7
+160,Circular Design 160,1200,Traditional,Circular,5,Easy,Chrysanthemum,Rose,Jasmine,White,Pink,White,8,3.0,5,School,Traditional circular design,3,2,797.4
+161,Peacock Design 161,1200,Traditional,Peacock,9,Hard,Orchid,Daisy,Rose,Purple,White,Pink,8,5.4,2,Office,Traditional peacock design,3,3,420.4
+162,Lotus Design 162,800,Temple,Lotus,4,Easy,Lotus,Tuberose,Marigold,Pink,White,Yellow,3,2.4,4,School,Temple lotus design,3,3,772.2
+163,Circular Design 163,2000,Temple,Circular,6,Medium,Tuberose,Daisy,Chrysanthemum,White,White,White,8,3.6,3,Home,Temple circular design,3,1,713.8
+164,Peacock Design 164,800,Traditional,Peacock,7,Medium,Tuberose,Marigold,Jasmine,White,Yellow,White,8,4.2,4,Home,Traditional peacock design,3,2,1091.6
+165,Temple Style Design 165,1200,Floral,Temple Style,9,Hard,Marigold,Chrysanthemum,Lotus,Yellow,White,Pink,6,5.4,4,Office,Floral temple style design,3,3,1469.4
+166,Star Design 166,1800,Traditional,Star,5,Easy,Orchid,Lotus,Jasmine,Purple,Pink,White,4,3.0,3,School,Traditional star design,3,3,1327.1
+167,Temple Style Design 167,1500,Traditional,Temple Style,4,Easy,Daisy,Rose,Jasmine,White,Pink,White,8,2.4,4,School,Traditional temple style design,3,2,1411.9
+168,Peacock Design 168,600,Floral,Peacock,5,Easy,Jasmine,Lotus,Orchid,White,Pink,Purple,3,3.0,5,Office,Floral peacock design,3,3,1027.1
+169,Star Design 169,2000,Traditional,Star,7,Medium,Daisy,Marigold,Rose,White,Yellow,Pink,7,4.2,4,Office,Traditional star design,3,3,987.2
+170,Star Design 170,800,Traditional,Star,7,Medium,Jasmine,Lotus,Tuberose,White,Pink,White,5,4.2,3,Office,Traditional star design,3,2,1047.1
+171,Temple Style Design 171,1200,Temple,Temple Style,8,Hard,Chrysanthemum,Tuberose,Lotus,White,White,Pink,5,4.8,2,Competition,Temple temple style design,3,2,2711.7
+172,Star Design 172,600,Modern,Star,6,Medium,Daisy,Lotus,Marigold,White,Pink,Yellow,7,3.6,5,Competition,Modern star design,3,3,940.1
+173,Star Design 173,2000,Traditional,Star,9,Hard,Lotus,Chrysanthemum,Rose,Pink,White,Pink,6,5.4,3,Office,Traditional star design,3,2,1558.6
+174,Circular Design 174,800,Modern,Circular,6,Medium,Daisy,Jasmine,Rose,White,White,Pink,8,3.6,3,Office,Modern circular design,3,2,938.0
+175,Peacock Design 175,2000,Traditional,Peacock,7,Medium,Marigold,Orchid,Chrysanthemum,Yellow,Purple,White,4,4.2,2,Office,Traditional peacock design,3,3,1068.4
+176,Star Design 176,1000,Temple,Star,9,Hard,Lotus,Chrysanthemum,Rose,Pink,White,Pink,4,5.4,4,Office,Temple star design,3,2,1562.2
+177,Star Design 177,1000,Floral,Star,9,Hard,Orchid,Chrysanthemum,Rose,Purple,White,Pink,5,5.4,4,Office,Floral star design,3,3,401.9
+178,Peacock Design 178,800,Traditional,Peacock,9,Hard,Orchid,Jasmine,Rose,Purple,White,Pink,6,5.4,4,Competition,Traditional peacock design,3,3,2208.2
+179,Peacock Design 179,1200,Traditional,Peacock,6,Medium,Tuberose,Lotus,Daisy,White,Pink,White,5,3.6,2,School,Traditional peacock design,3,2,1122.9
+180,Circular Design 180,1000,Traditional,Circular,4,Easy,Daisy,Marigold,Chrysanthemum,White,Yellow,White,8,2.4,4,Competition,Traditional circular design,3,2,1327.6
+181,Lotus Design 181,1200,Modern,Lotus,8,Hard,Rose,Daisy,Jasmine,Pink,White,White,8,4.8,4,Competition,Modern lotus design,3,2,1257.9
+182,Temple Style Design 182,1000,Floral,Temple Style,7,Medium,Rose,Tuberose,Jasmine,Pink,White,White,8,4.2,4,School,Floral temple style design,3,2,364.6
+183,Lotus Design 183,1200,Temple,Lotus,6,Medium,Marigold,Jasmine,Rose,Yellow,White,Pink,6,3.6,3,School,Temple lotus design,3,3,829.3
+184,Star Design 184,1200,Temple,Star,8,Hard,Jasmine,Chrysanthemum,Marigold,White,White,Yellow,4,4.8,3,Home,Temple star design,3,2,1243.5
+185,Circular Design 185,1800,Modern,Circular,9,Hard,Jasmine,Chrysanthemum,Daisy,White,White,White,3,5.4,5,Office,Modern circular design,3,1,1255.6
+186,Circular Design 186,1500,Temple,Circular,8,Hard,Chrysanthemum,Tuberose,Rose,White,White,Pink,5,4.8,3,Competition,Temple circular design,3,2,785.8
+187,Star Design 187,800,Floral,Star,9,Hard,Rose,Lotus,Chrysanthemum,Pink,Pink,White,6,5.4,3,Home,Floral star design,3,2,1337.2
+188,Star Design 188,1500,Temple,Star,8,Hard,Chrysanthemum,Daisy,Marigold,White,White,Yellow,3,4.8,3,Home,Temple star design,3,2,1008.0
+189,Peacock Design 189,1800,Floral,Peacock,6,Medium,Marigold,Daisy,Orchid,Yellow,White,Purple,4,3.6,5,Competition,Floral peacock design,3,3,1551.5
+190,Temple Style Design 190,1800,Traditional,Temple Style,6,Medium,Tuberose,Rose,Marigold,White,Pink,Yellow,3,3.6,4,Office,Traditional temple style design,3,3,2033.3
+191,Star Design 191,2000,Modern,Star,6,Medium,Tuberose,Chrysanthemum,Lotus,White,White,Pink,3,3.6,2,Home,Modern star design,3,2,1864.3
+192,Peacock Design 192,600,Temple,Peacock,4,Easy,Orchid,Lotus,Daisy,Purple,Pink,White,5,2.4,4,Home,Temple peacock design,3,3,2103.5
+193,Lotus Design 193,1800,Modern,Lotus,6,Medium,Orchid,Daisy,Rose,Purple,White,Pink,7,3.6,2,Competition,Modern lotus design,3,3,831.3
+194,Circular Design 194,800,Traditional,Circular,8,Hard,Rose,Tuberose,Chrysanthemum,Pink,White,White,8,4.8,4,School,Traditional circular design,3,2,598.2
+195,Lotus Design 195,1500,Traditional,Lotus,6,Medium,Rose,Orchid,Tuberose,Pink,Purple,White,5,3.6,3,Competition,Traditional lotus design,3,3,925.6
+196,Lotus Design 196,1500,Temple,Lotus,7,Medium,Tuberose,Rose,Jasmine,White,Pink,White,4,4.2,2,Office,Temple lotus design,3,2,1043.6
+197,Lotus Design 197,1800,Temple,Lotus,5,Easy,Chrysanthemum,Tuberose,Jasmine,White,White,White,6,3.0,2,Home,Temple lotus design,3,1,2412.8
+198,Peacock Design 198,800,Temple,Peacock,9,Hard,Chrysanthemum,Jasmine,Lotus,White,White,Pink,4,5.4,5,Competition,Temple peacock design,3,2,2218.3
+199,Circular Design 199,1800,Floral,Circular,6,Medium,Rose,Orchid,Chrysanthemum,Pink,Purple,White,3,3.6,4,Home,Floral circular design,3,3,400.5
+200,Temple Style Design 200,1800,Modern,Temple Style,4,Easy,Chrysanthemum,Jasmine,Lotus,White,White,Pink,5,2.4,5,Competition,Modern temple style design,3,2,1917.1
+201,Star Design 201,1800,Modern,Star,8,Hard,Rose,Jasmine,Chrysanthemum,Pink,White,White,3,4.8,4,Home,Modern star design,3,2,1723.0
+202,Star Design 202,800,Traditional,Star,8,Hard,Orchid,Chrysanthemum,Tuberose,Purple,White,White,4,4.8,2,School,Traditional star design,3,2,1409.1
+203,Lotus Design 203,800,Temple,Lotus,5,Easy,Rose,Lotus,Orchid,Pink,Pink,Purple,6,3.0,5,Office,Temple lotus design,3,2,1710.4
+204,Temple Style Design 204,800,Modern,Temple Style,7,Medium,Chrysanthemum,Jasmine,Lotus,White,White,Pink,7,4.2,2,Office,Modern temple style design,3,2,1854.2
+205,Peacock Design 205,2000,Temple,Peacock,8,Hard,Tuberose,Rose,Daisy,White,Pink,White,3,4.8,5,Office,Temple peacock design,3,2,1637.8
+206,Lotus Design 206,1500,Modern,Lotus,9,Hard,Orchid,Lotus,Marigold,Purple,Pink,Yellow,8,5.4,5,School,Modern lotus design,3,3,2044.5
+207,Circular Design 207,1800,Floral,Circular,5,Easy,Jasmine,Lotus,Chrysanthemum,White,Pink,White,6,3.0,4,Home,Floral circular design,3,2,1061.4
+208,Lotus Design 208,600,Traditional,Lotus,6,Medium,Lotus,Jasmine,Chrysanthemum,Pink,White,White,7,3.6,3,Home,Traditional lotus design,3,2,688.6
+209,Lotus Design 209,1000,Modern,Lotus,8,Hard,Tuberose,Orchid,Chrysanthemum,White,Purple,White,7,4.8,3,Competition,Modern lotus design,3,2,1378.4
+210,Lotus Design 210,2000,Traditional,Lotus,7,Medium,Orchid,Daisy,Lotus,Purple,White,Pink,6,4.2,5,Competition,Traditional lotus design,3,3,1769.0
+211,Circular Design 211,1200,Traditional,Circular,7,Medium,Tuberose,Daisy,Rose,White,White,Pink,6,4.2,3,School,Traditional circular design,3,2,597.6
+212,Temple Style Design 212,1000,Traditional,Temple Style,6,Medium,Marigold,Tuberose,Daisy,Yellow,White,White,5,3.6,3,Competition,Traditional temple style design,3,2,1085.5
+213,Circular Design 213,1000,Floral,Circular,8,Hard,Jasmine,Daisy,Marigold,White,White,Yellow,8,4.8,3,Competition,Floral circular design,3,2,549.1
+214,Circular Design 214,1200,Modern,Circular,5,Easy,Jasmine,Lotus,Rose,White,Pink,Pink,5,3.0,2,Home,Modern circular design,3,2,1108.8
+215,Circular Design 215,1800,Modern,Circular,6,Medium,Marigold,Rose,Lotus,Yellow,Pink,Pink,5,3.6,4,Home,Modern circular design,3,2,1304.9
+216,Circular Design 216,800,Traditional,Circular,5,Easy,Marigold,Rose,Orchid,Yellow,Pink,Purple,8,3.0,5,School,Traditional circular design,3,3,561.2
+217,Circular Design 217,1800,Temple,Circular,8,Hard,Lotus,Chrysanthemum,Orchid,Pink,White,Purple,8,4.8,4,Competition,Temple circular design,3,3,1405.6
+218,Lotus Design 218,1500,Floral,Lotus,5,Easy,Chrysanthemum,Lotus,Orchid,White,Pink,Purple,6,3.0,5,Competition,Floral lotus design,3,3,756.0
+219,Lotus Design 219,800,Floral,Lotus,6,Medium,Orchid,Chrysanthemum,Lotus,Purple,White,Pink,8,3.6,2,Competition,Floral lotus design,3,3,1038.4
+220,Circular Design 220,1500,Floral,Circular,8,Hard,Daisy,Lotus,Orchid,White,Pink,Purple,5,4.8,3,School,Floral circular design,3,3,964.7
+221,Peacock Design 221,1800,Traditional,Peacock,4,Easy,Lotus,Daisy,Chrysanthemum,Pink,White,White,4,2.4,4,Home,Traditional peacock design,3,2,853.9
+222,Star Design 222,1000,Traditional,Star,4,Easy,Rose,Orchid,Jasmine,Pink,Purple,White,3,2.4,2,Office,Traditional star design,3,3,961.4
+223,Temple Style Design 223,1800,Floral,Temple Style,4,Easy,Tuberose,Chrysanthemum,Marigold,White,White,Yellow,7,2.4,2,Home,Floral temple style design,3,2,1398.8
+224,Circular Design 224,800,Temple,Circular,4,Easy,Daisy,Jasmine,Lotus,White,White,Pink,7,2.4,4,Office,Temple circular design,3,2,1065.5
+225,Star Design 225,800,Modern,Star,7,Medium,Orchid,Rose,Tuberose,Purple,Pink,White,5,4.2,4,School,Modern star design,3,3,515.2
+226,Peacock Design 226,2000,Floral,Peacock,7,Medium,Tuberose,Lotus,Daisy,White,Pink,White,5,4.2,5,Home,Floral peacock design,3,2,2103.8
+227,Star Design 227,800,Traditional,Star,4,Easy,Lotus,Marigold,Rose,Pink,Yellow,Pink,6,2.4,2,Home,Traditional star design,3,2,1684.5
+228,Peacock Design 228,1500,Modern,Peacock,4,Easy,Lotus,Jasmine,Orchid,Pink,White,Purple,3,2.4,4,Competition,Modern peacock design,3,3,1819.0
+229,Lotus Design 229,600,Traditional,Lotus,5,Easy,Orchid,Jasmine,Rose,Purple,White,Pink,3,3.0,2,School,Traditional lotus design,3,3,1338.1
+230,Lotus Design 230,1000,Floral,Lotus,5,Easy,Daisy,Chrysanthemum,Orchid,White,White,Purple,5,3.0,2,Office,Floral lotus design,3,2,1548.2
+231,Temple Style Design 231,1500,Floral,Temple Style,4,Easy,Lotus,Rose,Daisy,Pink,Pink,White,6,2.4,5,Office,Floral temple style design,3,2,706.9
+232,Temple Style Design 232,1000,Traditional,Temple Style,9,Hard,Tuberose,Orchid,Daisy,White,Purple,White,6,5.4,4,Home,Traditional temple style design,3,2,495.0
+233,Star Design 233,600,Temple,Star,9,Hard,Tuberose,Marigold,Daisy,White,Yellow,White,5,5.4,5,School,Temple star design,3,2,1132.9
+234,Lotus Design 234,600,Floral,Lotus,6,Medium,Tuberose,Marigold,Jasmine,White,Yellow,White,8,3.6,2,Office,Floral lotus design,3,2,1459.3
+235,Lotus Design 235,1800,Traditional,Lotus,8,Hard,Jasmine,Chrysanthemum,Tuberose,White,White,White,5,4.8,5,School,Traditional lotus design,3,1,1419.9
+236,Peacock Design 236,1800,Temple,Peacock,8,Hard,Orchid,Chrysanthemum,Rose,Purple,White,Pink,4,4.8,3,School,Temple peacock design,3,3,704.2
+237,Star Design 237,800,Modern,Star,8,Hard,Tuberose,Chrysanthemum,Jasmine,White,White,White,4,4.8,2,Office,Modern star design,3,1,881.9
+238,Star Design 238,600,Traditional,Star,9,Hard,Lotus,Marigold,Daisy,Pink,Yellow,White,6,5.4,3,Home,Traditional star design,3,3,628.7
+239,Temple Style Design 239,1500,Modern,Temple Style,7,Medium,Daisy,Rose,Chrysanthemum,White,Pink,White,7,4.2,2,Office,Modern temple style design,3,2,1473.6
+240,Peacock Design 240,1200,Floral,Peacock,4,Easy,Daisy,Lotus,Jasmine,White,Pink,White,6,2.4,5,Office,Floral peacock design,3,2,702.2
+241,Temple Style Design 241,1200,Temple,Temple Style,8,Hard,Jasmine,Daisy,Orchid,White,White,Purple,4,4.8,5,Home,Temple temple style design,3,2,1352.9
+242,Peacock Design 242,800,Modern,Peacock,8,Hard,Tuberose,Daisy,Lotus,White,White,Pink,8,4.8,5,Home,Modern peacock design,3,2,1656.8
+243,Circular Design 243,2000,Modern,Circular,6,Medium,Lotus,Tuberose,Daisy,Pink,White,White,6,3.6,5,School,Modern circular design,3,2,425.2
+244,Circular Design 244,1500,Traditional,Circular,6,Medium,Chrysanthemum,Jasmine,Orchid,White,White,Purple,8,3.6,4,Home,Traditional circular design,3,2,1068.2
+245,Lotus Design 245,1500,Floral,Lotus,4,Easy,Chrysanthemum,Orchid,Jasmine,White,Purple,White,5,2.4,2,School,Floral lotus design,3,2,1902.7
+246,Lotus Design 246,2000,Modern,Lotus,7,Medium,Lotus,Tuberose,Jasmine,Pink,White,White,5,4.2,4,Home,Modern lotus design,3,2,1473.1
+247,Peacock Design 247,1500,Floral,Peacock,9,Hard,Daisy,Tuberose,Jasmine,White,White,White,5,5.4,3,Home,Floral peacock design,3,1,515.2
+248,Star Design 248,1500,Traditional,Star,9,Hard,Orchid,Tuberose,Jasmine,Purple,White,White,4,5.4,5,Home,Traditional star design,3,2,1420.1
+249,Circular Design 249,1500,Modern,Circular,9,Hard,Orchid,Marigold,Tuberose,Purple,Yellow,White,5,5.4,2,Office,Modern circular design,3,3,1870.7
+250,Temple Style Design 250,1800,Modern,Temple Style,7,Medium,Rose,Daisy,Orchid,Pink,White,Purple,7,4.2,2,Competition,Modern temple style design,3,3,1917.3
+251,Circular Design 251,1200,Modern,Circular,5,Easy,Rose,Jasmine,Marigold,Pink,White,Yellow,5,3.0,3,School,Modern circular design,3,3,1186.2
+252,Peacock Design 252,1200,Floral,Peacock,6,Medium,Rose,Orchid,Jasmine,Pink,Purple,White,5,3.6,3,Office,Floral peacock design,3,3,1286.3
+253,Peacock Design 253,1800,Floral,Peacock,5,Easy,Tuberose,Daisy,Marigold,White,White,Yellow,7,3.0,2,Home,Floral peacock design,3,2,1349.4
+254,Temple Style Design 254,2000,Traditional,Temple Style,5,Easy,Marigold,Orchid,Jasmine,Yellow,Purple,White,8,3.0,4,Office,Traditional temple style design,3,3,949.6
+255,Temple Style Design 255,1500,Traditional,Temple Style,6,Medium,Daisy,Rose,Lotus,White,Pink,Pink,6,3.6,4,Office,Traditional temple style design,3,2,1184.0
+256,Temple Style Design 256,1000,Floral,Temple Style,6,Medium,Jasmine,Rose,Daisy,White,Pink,White,4,3.6,4,Competition,Floral temple style design,3,2,1441.3
+257,Star Design 257,1000,Temple,Star,6,Medium,Marigold,Jasmine,Daisy,Yellow,White,White,8,3.6,4,Office,Temple star design,3,2,592.9
+258,Circular Design 258,800,Temple,Circular,4,Easy,Tuberose,Daisy,Lotus,White,White,Pink,7,2.4,4,Competition,Temple circular design,3,2,1293.5
+259,Circular Design 259,600,Modern,Circular,4,Easy,Marigold,Orchid,Tuberose,Yellow,Purple,White,8,2.4,3,School,Modern circular design,3,3,604.5
+260,Temple Style Design 260,800,Modern,Temple Style,4,Easy,Tuberose,Marigold,Rose,White,Yellow,Pink,8,2.4,4,Competition,Modern temple style design,3,3,532.7
+261,Peacock Design 261,600,Floral,Peacock,8,Hard,Tuberose,Jasmine,Orchid,White,White,Purple,7,4.8,3,Office,Floral peacock design,3,2,2199.9
+262,Star Design 262,1800,Traditional,Star,9,Hard,Tuberose,Rose,Orchid,White,Pink,Purple,3,5.4,3,Office,Traditional star design,3,3,2333.4
+263,Star Design 263,1200,Modern,Star,9,Hard,Tuberose,Rose,Lotus,White,Pink,Pink,4,5.4,4,Home,Modern star design,3,2,1113.9
+264,Lotus Design 264,1000,Temple,Lotus,9,Hard,Chrysanthemum,Tuberose,Marigold,White,White,Yellow,7,5.4,3,Competition,Temple lotus design,3,2,1609.5
+265,Lotus Design 265,1000,Floral,Lotus,8,Hard,Rose,Orchid,Tuberose,Pink,Purple,White,8,4.8,4,Home,Floral lotus design,3,3,1311.0
+266,Lotus Design 266,1200,Traditional,Lotus,5,Easy,Rose,Jasmine,Orchid,Pink,White,Purple,4,3.0,2,School,Traditional lotus design,3,3,716.4
+267,Lotus Design 267,800,Modern,Lotus,8,Hard,Daisy,Jasmine,Marigold,White,White,Yellow,3,4.8,4,School,Modern lotus design,3,2,992.9
+268,Temple Style Design 268,1200,Temple,Temple Style,4,Easy,Jasmine,Marigold,Orchid,White,Yellow,Purple,5,2.4,3,Competition,Temple temple style design,3,3,546.7
+269,Lotus Design 269,1800,Temple,Lotus,6,Medium,Marigold,Tuberose,Chrysanthemum,Yellow,White,White,8,3.6,5,School,Temple lotus design,3,2,1280.8
+270,Star Design 270,2000,Temple,Star,9,Hard,Chrysanthemum,Marigold,Rose,White,Yellow,Pink,8,5.4,5,Home,Temple star design,3,3,1704.0
+271,Circular Design 271,600,Temple,Circular,8,Hard,Tuberose,Orchid,Marigold,White,Purple,Yellow,8,4.8,3,Office,Temple circular design,3,3,1108.8
+272,Circular Design 272,1800,Floral,Circular,7,Medium,Jasmine,Lotus,Chrysanthemum,White,Pink,White,8,4.2,4,Office,Floral circular design,3,2,1098.4
+273,Circular Design 273,1200,Temple,Circular,7,Medium,Orchid,Rose,Tuberose,Purple,Pink,White,6,4.2,5,Home,Temple circular design,3,3,505.0
+274,Temple Style Design 274,1500,Floral,Temple Style,7,Medium,Orchid,Rose,Tuberose,Purple,Pink,White,7,4.2,4,School,Floral temple style design,3,3,1908.5
+275,Temple Style Design 275,600,Temple,Temple Style,6,Medium,Jasmine,Marigold,Daisy,White,Yellow,White,7,3.6,4,Competition,Temple temple style design,3,2,936.0
+276,Lotus Design 276,800,Modern,Lotus,4,Easy,Lotus,Tuberose,Rose,Pink,White,Pink,6,2.4,5,Home,Modern lotus design,3,2,737.1
+277,Star Design 277,800,Floral,Star,8,Hard,Chrysanthemum,Tuberose,Lotus,White,White,Pink,6,4.8,4,Home,Floral star design,3,2,1095.7
+278,Star Design 278,1000,Modern,Star,5,Easy,Daisy,Marigold,Tuberose,White,Yellow,White,8,3.0,2,Competition,Modern star design,3,2,850.7
+279,Circular Design 279,1200,Temple,Circular,6,Medium,Jasmine,Orchid,Lotus,White,Purple,Pink,7,3.6,3,School,Temple circular design,3,3,1049.9
+280,Peacock Design 280,1500,Temple,Peacock,5,Easy,Marigold,Chrysanthemum,Tuberose,Yellow,White,White,7,3.0,3,School,Temple peacock design,3,2,881.2
+281,Lotus Design 281,1800,Modern,Lotus,5,Easy,Orchid,Rose,Lotus,Purple,Pink,Pink,6,3.0,2,School,Modern lotus design,3,2,1115.9
+282,Peacock Design 282,600,Modern,Peacock,6,Medium,Lotus,Marigold,Rose,Pink,Yellow,Pink,8,3.6,2,School,Modern peacock design,3,2,789.0
+283,Temple Style Design 283,1500,Floral,Temple Style,8,Hard,Marigold,Lotus,Chrysanthemum,Yellow,Pink,White,4,4.8,2,Home,Floral temple style design,3,3,1609.6
+284,Peacock Design 284,600,Floral,Peacock,9,Hard,Rose,Chrysanthemum,Lotus,Pink,White,Pink,7,5.4,5,School,Floral peacock design,3,2,838.7
+285,Temple Style Design 285,1200,Modern,Temple Style,9,Hard,Tuberose,Rose,Marigold,White,Pink,Yellow,5,5.4,4,Home,Modern temple style design,3,3,523.0
+286,Circular Design 286,1800,Modern,Circular,9,Hard,Daisy,Marigold,Jasmine,White,Yellow,White,8,5.4,4,Competition,Modern circular design,3,2,2133.9
+287,Peacock Design 287,1800,Temple,Peacock,6,Medium,Rose,Tuberose,Orchid,Pink,White,Purple,7,3.6,4,Competition,Temple peacock design,3,3,923.9
+288,Temple Style Design 288,2000,Temple,Temple Style,8,Hard,Tuberose,Daisy,Lotus,White,White,Pink,6,4.8,5,Home,Temple temple style design,3,2,1195.4
+289,Circular Design 289,2000,Traditional,Circular,4,Easy,Daisy,Orchid,Marigold,White,Purple,Yellow,3,2.4,3,Competition,Traditional circular design,3,3,620.6
+290,Star Design 290,1800,Traditional,Star,4,Easy,Jasmine,Orchid,Lotus,White,Purple,Pink,5,2.4,2,School,Traditional star design,3,3,448.3
+291,Star Design 291,1500,Floral,Star,4,Easy,Chrysanthemum,Lotus,Jasmine,White,Pink,White,5,2.4,5,Competition,Floral star design,3,2,1257.0
+292,Star Design 292,600,Floral,Star,4,Easy,Orchid,Tuberose,Lotus,Purple,White,Pink,8,2.4,2,Office,Floral star design,3,3,2034.7
+293,Lotus Design 293,1500,Modern,Lotus,7,Medium,Chrysanthemum,Orchid,Rose,White,Purple,Pink,6,4.2,4,Competition,Modern lotus design,3,3,1024.5
+294,Peacock Design 294,1000,Floral,Peacock,8,Hard,Daisy,Chrysanthemum,Rose,White,White,Pink,5,4.8,3,Office,Floral peacock design,3,2,1116.5
+295,Temple Style Design 295,600,Temple,Temple Style,7,Medium,Orchid,Lotus,Rose,Purple,Pink,Pink,4,4.2,3,Home,Temple temple style design,3,2,1105.3
+296,Peacock Design 296,800,Traditional,Peacock,6,Medium,Tuberose,Chrysanthemum,Orchid,White,White,Purple,6,3.6,4,Home,Traditional peacock design,3,2,1240.2
+297,Temple Style Design 297,1200,Temple,Temple Style,6,Medium,Marigold,Tuberose,Chrysanthemum,Yellow,White,White,8,3.6,2,Office,Temple temple style design,3,2,1353.7
+298,Peacock Design 298,1000,Traditional,Peacock,9,Hard,Jasmine,Orchid,Lotus,White,Purple,Pink,3,5.4,5,Office,Traditional peacock design,3,3,1369.8
+299,Lotus Design 299,1800,Traditional,Lotus,5,Easy,Orchid,Jasmine,Rose,Purple,White,Pink,8,3.0,4,School,Traditional lotus design,3,3,1220.8
+300,Temple Style Design 300,1800,Traditional,Temple Style,9,Hard,Daisy,Jasmine,Lotus,White,White,Pink,6,5.4,5,Office,Traditional temple style design,3,2,1188.7
+301,Temple Style Heritage 301,1200,Modern,Temple Style,5,Easy,Rose,Marigold,Daisy,Pink,Yellow,White,8,3.1,2,Competition,Modern temple style Pookalam suitable for competition celebrations.,3,3,1167.9
+302,Star Heritage 302,600,Modern,Star,8,Hard,Marigold,Tuberose,Lotus,Yellow,White,Pink,4,5.3,5,School,Modern star Pookalam suitable for school celebrations.,3,3,642.8
+303,Circular Heritage 303,2000,Modern,Circular,6,Medium,Tuberose,Orchid,Chrysanthemum,White,Purple,White,5,3.7,4,Home,Modern circular Pookalam suitable for home celebrations.,3,2,2251.6
+304,Butterfly Heritage 304,1500,Temple,Butterfly,4,Easy,Rose,Jasmine,Marigold,Pink,White,Yellow,8,2.9,2,Competition,Temple butterfly Pookalam suitable for competition celebrations.,3,3,1037.6
+305,Conch Heritage 305,1200,Temple,Conch,9,Hard,Rose,Orchid,Chrysanthemum,Pink,Purple,White,3,5.2,3,Office,Temple conch Pookalam suitable for office celebrations.,3,3,1056.8
+306,Peacock Heritage 306,1500,Floral,Peacock,7,Medium,Rose,Lotus,Tuberose,Pink,Pink,White,8,4.9,3,Office,Floral peacock Pookalam suitable for office celebrations.,3,2,1120.8
+307,Temple Style Heritage 307,1000,Traditional,Temple Style,8,Hard,Daisy,Rose,Tuberose,White,Pink,White,8,4.8,5,Competition,Traditional temple style Pookalam suitable for competition celebrations.,3,2,1147.0
+308,Nilavilakku Heritage 308,1800,Modern,Circular,4,Easy,Orchid,Daisy,Lotus,Purple,White,Pink,4,3.2,4,Competition,Modern nilavilakku Pookalam suitable for competition celebrations.,3,3,2209.9
+309,Conch Heritage 309,1200,Temple,Conch,9,Hard,Orchid,Marigold,Rose,Purple,Yellow,Pink,6,5.5,5,School,Temple conch Pookalam suitable for school celebrations.,3,3,968.3
+310,Nilavilakku Heritage 310,2000,Temple,Temple Style,8,Hard,Orchid,Rose,Lotus,Purple,Pink,Pink,6,5.0,3,Competition,Temple nilavilakku Pookalam suitable for competition celebrations.,3,2,1058.3
+311,Peacock Heritage 311,1000,Modern,Peacock,9,Hard,Rose,Lotus,Marigold,Pink,Pink,Yellow,6,5.7,5,Competition,Modern peacock Pookalam suitable for competition celebrations.,3,2,1454.5
+312,Nilavilakku Heritage 312,800,Traditional,Lotus,9,Hard,Tuberose,Orchid,Chrysanthemum,White,Purple,White,7,5.9,4,Home,Traditional nilavilakku Pookalam suitable for home celebrations.,3,2,1657.9
+313,Kathakali Heritage 313,1500,Traditional,Peacock,8,Hard,Orchid,Jasmine,Rose,Purple,White,Pink,4,5.1,2,Office,Traditional kathakali Pookalam suitable for office celebrations.,3,3,797.0
+314,Lotus Heritage 314,1800,Traditional,Lotus,7,Medium,Jasmine,Rose,Chrysanthemum,White,Pink,White,3,4.2,4,Office,Traditional lotus Pookalam suitable for office celebrations.,3,2,960.6
+315,Conch Heritage 315,800,Traditional,Conch,9,Hard,Jasmine,Marigold,Rose,White,Yellow,Pink,6,6.0,3,School,Traditional conch Pookalam suitable for school celebrations.,3,3,1854.8
+316,Temple Style Heritage 316,1200,Floral,Temple Style,8,Hard,Tuberose,Orchid,Rose,White,Purple,Pink,8,5.3,4,Competition,Floral temple style Pookalam suitable for competition celebrations.,3,3,1055.5
+317,Kathakali Heritage 317,1200,Traditional,Peacock,5,Easy,Daisy,Jasmine,Orchid,White,White,Purple,3,3.3,3,School,Traditional kathakali Pookalam suitable for school celebrations.,3,2,651.0
+318,Circular Heritage 318,800,Modern,Circular,4,Easy,Marigold,Tuberose,Daisy,Yellow,White,White,5,2.5,3,Office,Modern circular Pookalam suitable for office celebrations.,3,2,640.5
+319,Lotus Heritage 319,1200,Floral,Lotus,7,Medium,Tuberose,Rose,Orchid,White,Pink,Purple,6,4.2,2,Competition,Floral lotus Pookalam suitable for competition celebrations.,3,3,1040.0
+320,Kathakali Heritage 320,800,Traditional,Peacock,4,Easy,Daisy,Jasmine,Lotus,White,White,Pink,6,3.1,2,School,Traditional kathakali Pookalam suitable for school celebrations.,3,2,869.5
+321,Kathakali Pookalam 01,1015,Kathakali,Circular,4,Medium,Chrysanthemum,Rose,Chethi,Green,Red,Yellow,5,3.0,3,Onam,"Kathakali-inspired Onam Pookalam with a circular pattern, 4 floral layers, and a green-red colour palette.",3,3,582.0
+322,Kathakali Pookalam 02,1170,Kathakali,Peacock,5,Hard,Rose,Chrysanthemum,Marigold,Green,Red,Yellow,6,4.0,4,Onam,"Kathakali-inspired Onam Pookalam with a peacock design pattern, 5 floral layers, and a green-red colour palette.",3,3,682.0
+323,Kathakali Pookalam 03,1325,Kathakali,Temple Style,6,Hard,Marigold,Rose,Chethi,Yellow,Red,Green,7,5.0,5,Onam,"Kathakali-inspired Onam Pookalam with a temple style pattern, 6 floral layers, and a yellow-red colour palette.",3,3,591.0
+324,Kathakali Pookalam 04,860,Kathakali,Circular,3,Easy,Marigold,Chrysanthemum,Chethi,Yellow,Green,Red,4,2.0,2,Home,"Kathakali-inspired Onam Pookalam with a circular pattern, 3 floral layers, and a yellow-green colour palette.",3,3,581.5
+325,Kathakali Pookalam 05,1170,Kathakali,Lotus,5,Medium,Rose,Marigold,Jasmine,Red,Yellow,White,6,3.5,4,Onam,"Kathakali-inspired Onam Pookalam with a lotus pattern, 5 floral layers, and a red-yellow colour palette.",3,3,606.5
+326,Kathakali Pookalam 06,1015,Kathakali,Temple Style,4,Medium,Chrysanthemum,Marigold,Rose,Green,Yellow,Red,5,3.0,3,Home,"Kathakali-inspired Onam Pookalam with a temple style pattern, 4 floral layers, and a green-yellow colour palette.",3,3,561.5
+327,Kathakali Pookalam 07,1370,Kathakali,Peacock,6,Hard,Rose,Chethi,Chrysanthemum,Red,Green,Yellow,8,5.0,5,Onam,"Kathakali-inspired Onam Pookalam with a peacock design pattern, 6 floral layers, and a red-green colour palette.",3,3,584.0
+328,Kathakali Pookalam 08,1215,Kathakali,Circular,5,Medium,Marigold,Rose,Chrysanthemum,Yellow,Red,Green,7,4.0,4,Competition,"Kathakali-inspired Onam Pookalam with a circular pattern, 5 floral layers, and a yellow-red colour palette.",3,3,606.5
+329,Kathakali Pookalam 09,1015,Kathakali,Lotus,4,Medium,Chrysanthemum,Jasmine,Rose,Green,White,Red,5,3.0,3,Home,"Kathakali-inspired Onam Pookalam with a lotus pattern, 4 floral layers, and a green-white colour palette.",3,3,612.0
+330,Kathakali Pookalam 10,1480,Kathakali,Temple Style,7,Hard,Marigold,Rose,Chrysanthemum,Yellow,Red,Green,8,5.5,5,Competition,"Kathakali-inspired Onam Pookalam with a temple style pattern, 7 floral layers, and a yellow-red colour palette.",3,3,601.5
+331,Vallamkali Pookalam 01,1015,Vallamkali,Circular,4,Medium,Marigold,Jasmine,Green Leaves,Yellow,White,Green,5,3.0,3,Onam,"Vallamkali-inspired Onam Pookalam with a circular pattern, 4 floral layers, and a yellow-white colour palette.",3,3,642.0
+332,Vallamkali Pookalam 02,1170,Vallamkali,Peacock,5,Hard,Chrysanthemum,Marigold,Rose,White,Yellow,Red,6,4.0,4,Onam,"Vallamkali-inspired Onam Pookalam with a peacock design pattern, 5 floral layers, and a white-yellow colour palette.",3,3,604.5
+333,Vallamkali Pookalam 03,860,Vallamkali,Circular,3,Easy,Daisy,Marigold,Jasmine,White,Yellow,Green,4,2.0,2,Home,"Vallamkali-inspired Onam Pookalam with a circular pattern, 3 floral layers, and a white-yellow colour palette.",3,3,654.0
+334,Vallamkali Pookalam 04,1215,Vallamkali,Temple Style,5,Medium,Marigold,Chrysanthemum,Green Leaves,Yellow,White,Green,7,4.0,4,Onam,"Vallamkali-inspired Onam Pookalam with a temple style pattern, 5 floral layers, and a yellow-white colour palette.",3,3,661.5
+335,Vallamkali Pookalam 05,1015,Vallamkali,Lotus,4,Medium,Jasmine,Rose,Marigold,White,Red,Yellow,5,3.0,3,Home,"Vallamkali-inspired Onam Pookalam with a lotus pattern, 4 floral layers, and a white-red colour palette.",3,3,623.0
+336,Vallamkali Pookalam 06,1370,Vallamkali,Peacock,6,Hard,Marigold,Rose,Jasmine,Yellow,Red,White,8,5.0,5,Competition,"Vallamkali-inspired Onam Pookalam with a peacock design pattern, 6 floral layers, and a yellow-red colour palette.",3,3,677.0
+337,Vallamkali Pookalam 07,1215,Vallamkali,Circular,5,Medium,Chrysanthemum,Jasmine,Marigold,White,Green,Yellow,7,4.0,4,Onam,"Vallamkali-inspired Onam Pookalam with a circular pattern, 5 floral layers, and a white-green colour palette.",3,3,663.0
+338,Vallamkali Pookalam 08,1060,Vallamkali,Temple Style,4,Medium,Daisy,Marigold,Jasmine,White,Yellow,Green,6,3.5,3,Home,"Vallamkali-inspired Onam Pookalam with a temple style pattern, 4 floral layers, and a white-yellow colour palette.",3,3,676.5
+339,Vallamkali Pookalam 09,1370,Vallamkali,Circular,6,Hard,Marigold,Chrysanthemum,Rose,Yellow,White,Red,8,5.0,5,Onam,"Vallamkali-inspired Onam Pookalam with a circular pattern, 6 floral layers, and a yellow-white colour palette.",3,3,605.0
+340,Vallamkali Pookalam 10,1215,Vallamkali,Lotus,5,Medium,Jasmine,Daisy,Marigold,White,Yellow,Green,7,4.0,4,Competition,"Vallamkali-inspired Onam Pookalam with a lotus pattern, 5 floral layers, and a white-yellow colour palette.",3,3,649.0
+341,Nilavilakku Pookalam 01,1015,Nilavilakku,Circular,4,Medium,Marigold,Jasmine,Rose,Yellow,White,Red,5,3.0,3,Onam,"Nilavilakku-inspired Onam Pookalam with a circular pattern, 4 floral layers, and a yellow-white colour palette.",3,3,688.5
+342,Nilavilakku Pookalam 02,1170,Nilavilakku,Temple Style,5,Hard,Chrysanthemum,Jasmine,Marigold,White,Yellow,Orange,6,4.0,4,Onam,"Nilavilakku-inspired Onam Pookalam with a temple style pattern, 5 floral layers, and a white-yellow colour palette.",3,3,713.5
+343,Nilavilakku Pookalam 03,860,Nilavilakku,Circular,3,Easy,Marigold,Jasmine,Daisy,Yellow,White,Orange,4,2.0,2,Home,"Nilavilakku-inspired Onam Pookalam with a circular pattern, 3 floral layers, and a yellow-white colour palette.",3,3,678.0
+344,Nilavilakku Pookalam 04,1170,Nilavilakku,Lotus,5,Medium,Rose,Jasmine,Marigold,Red,White,Yellow,6,3.5,4,Home,"Nilavilakku-inspired Onam Pookalam with a lotus pattern, 5 floral layers, and a red-white colour palette.",3,3,769.0
+345,Nilavilakku Pookalam 05,1370,Nilavilakku,Temple Style,6,Hard,Marigold,Chrysanthemum,Jasmine,Yellow,White,Orange,8,5.0,5,Competition,"Nilavilakku-inspired Onam Pookalam with a temple style pattern, 6 floral layers, and a yellow-white colour palette.",3,3,697.0
+346,Nilavilakku Pookalam 06,1015,Nilavilakku,Circular,4,Medium,Chrysanthemum,Jasmine,Rose,Yellow,White,Red,5,3.0,3,Onam,"Nilavilakku-inspired Onam Pookalam with a circular pattern, 4 floral layers, and a yellow-white colour palette.",3,3,704.5
+347,Nilavilakku Pookalam 07,1215,Nilavilakku,Lotus,5,Medium,Marigold,Jasmine,Daisy,Yellow,White,Pink,7,4.0,4,Home,"Nilavilakku-inspired Onam Pookalam with a lotus pattern, 5 floral layers, and a yellow-white colour palette.",3,3,730.0
+348,Nilavilakku Pookalam 08,1480,Nilavilakku,Temple Style,7,Hard,Rose,Jasmine,Chrysanthemum,Red,White,Yellow,8,5.5,5,Competition,"Nilavilakku-inspired Onam Pookalam with a temple style pattern, 7 floral layers, and a red-white colour palette.",3,3,762.0
+349,Nilavilakku Pookalam 09,1325,Nilavilakku,Circular,6,Hard,Marigold,Jasmine,Rose,Yellow,White,Red,7,4.5,4,Onam,"Nilavilakku-inspired Onam Pookalam with a circular pattern, 6 floral layers, and a yellow-white colour palette.",3,3,699.0
+350,Nilavilakku Pookalam 10,1060,Nilavilakku,Lotus,4,Medium,Chrysanthemum,Jasmine,Marigold,White,Yellow,Orange,6,3.5,3,Home,"Nilavilakku-inspired Onam Pookalam with a lotus pattern, 4 floral layers, and a white-yellow colour palette.",3,3,744.5
+351,Nature Pookalam 01,860,Nature,Circular,3,Easy,Daisy,Jasmine,Green Leaves,White,Green,Yellow,4,2.0,2,Home,"Nature-inspired Onam Pookalam with a circular pattern, 3 floral layers, and a white-green colour palette.",3,3,629.0
+352,Nature Pookalam 02,1015,Nature,Lotus,4,Medium,Lotus,Daisy,Green Leaves,Pink,White,Green,5,3.0,3,Onam,"Nature-inspired Onam Pookalam with a lotus pattern, 4 floral layers, and a pink-white colour palette.",3,3,777.0
+353,Nature Pookalam 03,1170,Nature,Peacock,5,Medium,Rose,Daisy,Green Leaves,Pink,White,Green,6,3.5,4,Onam,"Nature-inspired Onam Pookalam with a peacock design pattern, 5 floral layers, and a pink-white colour palette.",3,3,637.5
+354,Nature Pookalam 04,1215,Nature,Circular,5,Medium,Chrysanthemum,Jasmine,Green Leaves,White,Green,Yellow,7,4.0,4,Home,"Nature-inspired Onam Pookalam with a circular pattern, 5 floral layers, and a white-green colour palette.",3,3,701.5
+355,Nature Pookalam 05,1370,Nature,Lotus,6,Hard,Lotus,Rose,Green Leaves,Pink,Red,Green,8,5.0,5,Competition,"Nature-inspired Onam Pookalam with a lotus pattern, 6 floral layers, and a pink-red colour palette.",3,3,832.5
+356,Nature Pookalam 06,1015,Nature,Circular,4,Medium,Daisy,Marigold,Green Leaves,White,Yellow,Green,5,3.0,3,Onam,"Nature-inspired Onam Pookalam with a circular pattern, 4 floral layers, and a white-yellow colour palette.",3,3,641.5
+357,Nature Pookalam 07,1370,Nature,Peacock,6,Hard,Rose,Orchid,Green Leaves,Pink,Purple,Green,8,5.0,5,Competition,"Nature-inspired Onam Pookalam with a peacock design pattern, 6 floral layers, and a pink-purple colour palette.",3,3,744.0
+358,Nature Pookalam 08,1215,Nature,Lotus,5,Medium,Lotus,Jasmine,Daisy,Pink,White,Yellow,7,4.0,4,Onam,"Nature-inspired Onam Pookalam with a lotus pattern, 5 floral layers, and a pink-white colour palette.",3,3,750.0
+359,Nature Pookalam 09,1015,Nature,Circular,4,Easy,Daisy,Jasmine,Green Leaves,White,Green,Pink,5,2.5,3,Home,"Nature-inspired Onam Pookalam with a circular pattern, 4 floral layers, and a white-green colour palette.",3,3,800.0
+360,Nature Pookalam 10,1525,Nature,Peacock,7,Hard,Rose,Chrysanthemum,Green Leaves,Pink,Yellow,Green,9,5.5,6,Competition,"Nature-inspired Onam Pookalam with a peacock design pattern, 7 floral layers, and a pink-yellow colour palette.",3,3,608.5
+361,Wild Pookalam 01,1170,Wild,Peacock,5,Medium,Orchid,Rose,Green Leaves,Purple,Pink,Green,6,3.5,4,Onam,"Wild-inspired Onam Pookalam with a peacock design pattern, 5 floral layers, and a purple-pink colour palette.",3,3,887.5
+362,Wild Pookalam 02,1015,Wild,Circular,4,Medium,Rose,Orchid,Chethi,Pink,Purple,Orange,5,3.0,3,Home,"Wild-inspired Onam Pookalam with a circular pattern, 4 floral layers, and a pink-purple colour palette.",3,3,874.5
+363,Wild Pookalam 03,1370,Wild,Peacock,6,Hard,Orchid,Chrysanthemum,Rose,Purple,Yellow,Pink,8,5.0,5,Competition,"Wild-inspired Onam Pookalam with a peacock design pattern, 6 floral layers, and a purple-yellow colour palette.",3,3,820.5
+364,Wild Pookalam 04,860,Wild,Circular,3,Easy,Marigold,Daisy,Rose,Orange,White,Pink,4,2.0,2,Home,"Wild-inspired Onam Pookalam with a circular pattern, 3 floral layers, and a orange-white colour palette.",3,3,942.5
+365,Wild Pookalam 05,1215,Wild,Lotus,5,Medium,Orchid,Rose,Daisy,Purple,Pink,White,7,4.0,4,Onam,"Wild-inspired Onam Pookalam with a lotus pattern, 5 floral layers, and a purple-pink colour palette.",3,3,850.5
+366,Wild Pookalam 06,1525,Wild,Peacock,7,Hard,Rose,Orchid,Marigold,Pink,Purple,Orange,9,5.5,6,Competition,"Wild-inspired Onam Pookalam with a peacock design pattern, 7 floral layers, and a pink-purple colour palette.",3,3,915.0
+367,Wild Pookalam 07,1060,Wild,Circular,4,Medium,Chrysanthemum,Orchid,Chethi,Yellow,Purple,Orange,6,3.5,4,Onam,"Wild-inspired Onam Pookalam with a circular pattern, 4 floral layers, and a yellow-purple colour palette.",3,3,867.0
+368,Wild Pookalam 08,1215,Wild,Lotus,5,Medium,Rose,Daisy,Orchid,Pink,White,Purple,7,4.0,4,Home,"Wild-inspired Onam Pookalam with a lotus pattern, 5 floral layers, and a pink-white colour palette.",3,3,859.5
+369,Wild Pookalam 09,1370,Wild,Peacock,6,Hard,Orchid,Rose,Chrysanthemum,Purple,Pink,Yellow,8,5.0,5,Competition,"Wild-inspired Onam Pookalam with a peacock design pattern, 6 floral layers, and a purple-pink colour palette.",3,3,862.0
+370,Wild Pookalam 10,1015,Wild,Circular,4,Easy,Daisy,Rose,Orchid,White,Pink,Purple,5,2.5,3,Home,"Wild-inspired Onam Pookalam with a circular pattern, 4 floral layers, and a white-pink colour palette.",3,3,975.5
+371,Kathakali Pookalam 11,1850,Kathakali,Circular,4,Medium,Rose,Daisy,Jasmine,Yellow,Pink,White,8,3.5,6,School,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a circular arrangement,3,3,77.8
+372,Kathakali Pookalam 12,1575,Kathakali,Peacock,9,Easy,Rose,Tuberose,Daisy,Pink,Red,White,9,5.5,5,School,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock arrangement,3,3,129.08
+373,Kathakali Pookalam 13,1900,Kathakali,Circular,8,Easy,Chethi,Marigold,Daisy,Red,Pink,Green,8,5.3,2,School,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a circular arrangement,3,3,108.87
+374,Kathakali Pookalam 14,975,Kathakali,Peacock,6,Medium,Jasmine,Tuberose,Lotus,Green,Purple,Red,6,4.3,6,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock arrangement,3,3,138.82
+375,Kathakali Pookalam 15,1425,Kathakali,Temple Style,7,Hard,Daisy,Rose,Tuberose,Pink,Purple,Yellow,9,4.6,2,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a temple style arrangement,3,3,103.62
+376,Kathakali Pookalam 16,1200,Kathakali,Peacock,6,Hard,Rose,Chethi,Chrysanthemum,Green,Purple,Yellow,9,4.3,2,Home,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock arrangement,3,3,92.27
+377,Kathakali Pookalam 17,1900,Kathakali,Lotus,4,Hard,Lotus,Marigold,Daisy,White,Green,Orange,7,3.5,4,Competition,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a lotus arrangement,3,3,111.12
+378,Kathakali Pookalam 18,975,Kathakali,Temple Style,4,Hard,Chethi,Daisy,Rose,Red,Purple,Pink,4,3.1,6,Competition,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a temple style arrangement,3,3,70.06
+379,Kathakali Pookalam 19,1500,Kathakali,Peacock,7,Hard,Rose,Tuberose,Daisy,Green,White,Yellow,6,4.7,3,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock design arrangement,3,3,127.1
+380,Kathakali Pookalam 20,1575,Kathakali,Peacock,6,Hard,Marigold,Tuberose,Chrysanthemum,Pink,Orange,Green,4,4.0,5,Competition,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock arrangement,3,3,88.12
+381,Kathakali Pookalam 21,1825,Kathakali,Lotus,8,Medium,Chethi,Chrysanthemum,Jasmine,Yellow,Green,Orange,9,4.9,3,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a lotus arrangement,3,3,137.42
+382,Kathakali Pookalam 22,1350,Kathakali,Peacock,4,Easy,Marigold,Lotus,Jasmine,Pink,White,Yellow,4,3.6,3,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock arrangement,3,3,103.2
+383,Kathakali Pookalam 23,1025,Kathakali,Peacock,9,Hard,Rose,Daisy,Jasmine,Red,Orange,Pink,4,5.6,2,Home,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock arrangement,3,3,148.48
+384,Kathakali Pookalam 24,1750,Kathakali,Peacock,8,Medium,Rose,Orchid,Jasmine,Pink,Orange,Red,8,5.0,4,Home,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock design arrangement,3,3,256.87
+385,Kathakali Pookalam 25,850,Kathakali,Circular,4,Easy,Daisy,Rose,Lotus,Yellow,White,Orange,6,3.3,2,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a circular arrangement,3,3,98.3
+386,Kathakali Pookalam 26,975,Kathakali,Peacock,6,Medium,Lotus,Jasmine,Marigold,White,Green,Yellow,5,3.8,3,Competition,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock design arrangement,3,3,175.44
+387,Kathakali Pookalam 27,1600,Kathakali,Peacock,4,Medium,Jasmine,Rose,Chethi,Yellow,Purple,Pink,8,3.3,4,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock design arrangement,3,3,114.53
+388,Kathakali Pookalam 28,1400,Kathakali,Temple Style,7,Easy,Rose,Orchid,Lotus,Red,Orange,White,6,4.3,6,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a temple style arrangement,3,3,241.16
+389,Kathakali Pookalam 29,1875,Kathakali,Peacock,8,Easy,Jasmine,Lotus,Orchid,White,Red,Orange,7,5.4,6,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock arrangement,3,3,241.65
+390,Kathakali Pookalam 30,1000,Kathakali,Temple Style,7,Easy,Lotus,Marigold,Daisy,Green,White,Pink,5,4.4,3,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a temple style arrangement,3,3,150.26
+391,Kathakali Pookalam 31,1475,Kathakali,Lotus,6,Hard,Orchid,Chrysanthemum,Daisy,White,Pink,Green,7,4.3,5,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a lotus arrangement,3,3,199.92
+392,Kathakali Pookalam 32,1775,Kathakali,Temple Style,9,Easy,Orchid,Lotus,Rose,White,Pink,Purple,9,5.4,6,Home,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a temple style arrangement,3,3,297.88
+393,Kathakali Pookalam 33,925,Kathakali,Temple Style,6,Medium,Tuberose,Chethi,Rose,Yellow,White,Orange,5,4.2,5,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a temple style arrangement,3,3,109.92
+394,Kathakali Pookalam 34,1050,Kathakali,Peacock,5,Easy,Lotus,Chrysanthemum,Marigold,Yellow,Pink,White,5,3.6,5,Competition,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock design arrangement,3,3,123.78
+395,Kathakali Pookalam 35,1675,Kathakali,Peacock,6,Hard,Tuberose,Lotus,Daisy,Yellow,Purple,Pink,4,3.8,2,Home,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock arrangement,3,3,145.91
+396,Kathakali Pookalam 36,1050,Kathakali,Temple Style,9,Hard,Tuberose,Rose,Jasmine,Green,Yellow,Purple,4,5.2,2,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a temple style arrangement,3,3,170.91
+397,Kathakali Pookalam 37,1400,Kathakali,Lotus,5,Medium,Chrysanthemum,Marigold,Lotus,Green,Orange,Purple,5,3.6,2,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a lotus arrangement,3,3,91.24
+398,Kathakali Pookalam 38,1100,Kathakali,Peacock,9,Hard,Jasmine,Daisy,Chethi,White,Orange,Purple,6,5.5,2,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock arrangement,3,3,152.32
+399,Kathakali Pookalam 39,1050,Kathakali,Circular,9,Medium,Rose,Daisy,Marigold,Yellow,Orange,Purple,5,5.4,5,Home,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a circular arrangement,3,3,130.86
+400,Kathakali Pookalam 40,1200,Kathakali,Lotus,9,Medium,Chrysanthemum,Marigold,Jasmine,Yellow,White,Purple,4,5.2,3,Home,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a lotus arrangement,3,3,126.01
+401,Kathakali Pookalam 41,950,Kathakali,Peacock,4,Hard,Orchid,Daisy,Rose,Green,Pink,Orange,4,3.4,5,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock design arrangement,3,3,172.68
+402,Kathakali Pookalam 42,900,Kathakali,Temple Style,4,Hard,Jasmine,Daisy,Rose,Red,Purple,White,7,3.3,3,Competition,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a temple style arrangement,3,3,96.22
+403,Kathakali Pookalam 43,1275,Kathakali,Peacock,9,Easy,Chethi,Orchid,Marigold,Pink,Purple,White,6,5.5,4,School,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock arrangement,3,3,229.67
+404,Kathakali Pookalam 44,1825,Kathakali,Temple Style,5,Easy,Lotus,Rose,Tuberose,Red,Orange,Purple,8,3.9,4,Home,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a temple style arrangement,3,3,151.5
+405,Kathakali Pookalam 45,1275,Kathakali,Temple Style,6,Easy,Orchid,Marigold,Jasmine,Pink,Orange,Red,4,3.9,4,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a temple style arrangement,3,3,224.05
+406,Kathakali Pookalam 46,1625,Kathakali,Temple Style,5,Easy,Rose,Marigold,Lotus,Yellow,Orange,White,9,3.9,4,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a temple style arrangement,3,3,102.48
+407,Kathakali Pookalam 47,1825,Kathakali,Peacock,8,Medium,Chethi,Marigold,Tuberose,White,Orange,Purple,4,5.3,6,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock arrangement,3,3,123.39
+408,Kathakali Pookalam 48,1175,Kathakali,Temple Style,7,Medium,Daisy,Jasmine,Marigold,Yellow,Red,White,6,4.5,3,Home,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a temple style arrangement,3,3,132.52
+409,Kathakali Pookalam 49,1675,Kathakali,Peacock,4,Medium,Chethi,Chrysanthemum,Marigold,Green,Pink,White,7,3.0,5,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock arrangement,3,3,71.31
+410,Kathakali Pookalam 50,1650,Kathakali,Peacock,5,Hard,Orchid,Chethi,Tuberose,Red,Green,Yellow,8,3.4,6,School,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock design arrangement,3,3,189.12
+411,Kathakali Pookalam 51,1825,Kathakali,Temple Style,9,Easy,Orchid,Chethi,Jasmine,Pink,Green,Orange,9,5.5,3,Home,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a temple style arrangement,3,3,304.9
+412,Kathakali Pookalam 52,1250,Kathakali,Lotus,8,Medium,Chethi,Rose,Tuberose,Red,Pink,Purple,8,4.8,2,School,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a lotus arrangement,3,3,123.48
+413,Kathakali Pookalam 53,1375,Kathakali,Peacock,8,Hard,Chrysanthemum,Orchid,Jasmine,Yellow,Orange,Red,5,5.4,2,Competition,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock design arrangement,3,3,230.66
+414,Kathakali Pookalam 54,1800,Kathakali,Peacock,5,Medium,Rose,Lotus,Marigold,Yellow,White,Green,5,3.7,6,Home,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock design arrangement,3,3,109.08
+415,Kathakali Pookalam 55,1450,Kathakali,Peacock,5,Hard,Rose,Lotus,Chrysanthemum,Yellow,Green,Orange,5,3.7,4,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock design arrangement,3,3,115.38
+416,Kathakali Pookalam 56,875,Kathakali,Lotus,4,Hard,Rose,Orchid,Lotus,Yellow,White,Red,8,3.0,5,Competition,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a lotus arrangement,3,3,139.08
+417,Kathakali Pookalam 57,900,Kathakali,Circular,6,Easy,Marigold,Chethi,Lotus,Yellow,Pink,Purple,6,4.1,3,School,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a circular arrangement,3,3,125.16
+418,Kathakali Pookalam 58,1825,Kathakali,Peacock,8,Medium,Tuberose,Rose,Daisy,Pink,White,Red,9,4.7,2,Onam,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock arrangement,3,3,139.86
+419,Kathakali Pookalam 59,1275,Kathakali,Peacock,5,Medium,Rose,Lotus,Daisy,Pink,Orange,Red,4,4.0,5,School,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock design arrangement,3,3,117.39
+420,Kathakali Pookalam 60,1025,Kathakali,Peacock,6,Hard,Chrysanthemum,Daisy,Marigold,Red,Green,White,8,4.5,3,School,Kathakali-inspired Onam Pookalam with expressive traditional motifs in a peacock arrangement,3,3,84.77
+421,Vallamkali Pookalam 11,1300,Vallamkali,Peacock,9,Easy,Lotus,Marigold,Tuberose,White,Purple,Red,4,5.2,4,Competition,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock design arrangement,3,3,170.16
+422,Vallamkali Pookalam 12,1850,Vallamkali,Circular,5,Easy,Marigold,Chrysanthemum,Orchid,White,Pink,Green,5,3.4,5,School,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a circular arrangement,3,3,115.26
+423,Vallamkali Pookalam 13,1275,Vallamkali,Lotus,8,Medium,Chethi,Marigold,Jasmine,White,Green,Yellow,7,5.1,2,School,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a lotus arrangement,3,3,135.2
+424,Vallamkali Pookalam 14,825,Vallamkali,Peacock,9,Hard,Tuberose,Chethi,Daisy,White,Yellow,Green,8,5.1,2,School,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock arrangement,3,3,119.45
+425,Vallamkali Pookalam 15,1375,Vallamkali,Lotus,8,Medium,Rose,Daisy,Lotus,Yellow,Orange,Red,6,5.0,4,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a lotus arrangement,3,3,151.59
+426,Vallamkali Pookalam 16,875,Vallamkali,Star,8,Medium,Orchid,Marigold,Daisy,Red,Purple,Orange,4,5.0,6,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a star arrangement,3,3,226.25
+427,Vallamkali Pookalam 17,1275,Vallamkali,Circular,8,Easy,Marigold,Orchid,Chrysanthemum,Green,Purple,Yellow,8,4.9,3,School,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a circular arrangement,3,3,186.78
+428,Vallamkali Pookalam 18,1825,Vallamkali,Peacock,8,Easy,Chrysanthemum,Rose,Lotus,Orange,Green,Red,6,5.4,5,School,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock design arrangement,3,3,154.74
+429,Vallamkali Pookalam 19,1325,Vallamkali,Lotus,7,Medium,Chethi,Chrysanthemum,Lotus,Red,Green,Purple,9,5.0,6,Home,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a lotus arrangement,3,3,116.26
+430,Vallamkali Pookalam 20,1450,Vallamkali,Peacock,9,Medium,Chrysanthemum,Tuberose,Rose,White,Orange,Green,6,5.4,5,School,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock design arrangement,3,3,157.74
+431,Vallamkali Pookalam 21,1550,Vallamkali,Circular,9,Hard,Daisy,Rose,Chethi,White,Red,Yellow,6,5.7,4,School,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a circular arrangement,3,3,129.04
+432,Vallamkali Pookalam 22,1275,Vallamkali,Circular,8,Hard,Marigold,Orchid,Daisy,Green,Red,Yellow,5,5.4,4,Competition,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a circular arrangement,3,3,215.33
+433,Vallamkali Pookalam 23,1675,Vallamkali,Lotus,7,Hard,Marigold,Rose,Jasmine,Red,Pink,Orange,6,4.4,2,School,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a lotus arrangement,3,3,124.59
+434,Vallamkali Pookalam 24,1675,Vallamkali,Peacock,5,Easy,Marigold,Jasmine,Orchid,Yellow,Green,Red,7,3.4,2,Home,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock arrangement,3,3,164.06
+435,Vallamkali Pookalam 25,1000,Vallamkali,Peacock,9,Medium,Orchid,Jasmine,Chrysanthemum,Yellow,Pink,Purple,6,5.5,2,School,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock arrangement,3,3,336.24
+436,Vallamkali Pookalam 26,900,Vallamkali,Peacock,6,Hard,Lotus,Rose,Jasmine,Orange,Green,Yellow,6,4.5,5,School,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock arrangement,3,3,162.39
+437,Vallamkali Pookalam 27,1825,Vallamkali,Peacock,9,Easy,Daisy,Lotus,Jasmine,Red,Green,Yellow,7,5.7,5,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock arrangement,3,3,182.3
+438,Vallamkali Pookalam 28,1200,Vallamkali,Circular,6,Easy,Jasmine,Daisy,Chrysanthemum,Red,Yellow,Orange,6,4.5,4,Home,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a circular arrangement,3,3,105.19
+439,Vallamkali Pookalam 29,925,Vallamkali,Peacock,6,Hard,Marigold,Daisy,Chrysanthemum,Red,Orange,Yellow,8,4.2,5,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock arrangement,3,3,91.42
+440,Vallamkali Pookalam 30,1850,Vallamkali,Circular,6,Easy,Chrysanthemum,Orchid,Jasmine,Orange,Red,Green,7,3.9,3,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a circular arrangement,3,3,212.29
+441,Vallamkali Pookalam 31,1650,Vallamkali,Circular,5,Easy,Orchid,Jasmine,Tuberose,Red,Yellow,Green,4,3.4,2,Home,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a circular arrangement,3,3,238.5
+442,Vallamkali Pookalam 32,1275,Vallamkali,Circular,4,Medium,Chethi,Tuberose,Daisy,Red,White,Yellow,8,2.9,5,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a circular arrangement,3,3,77.24
+443,Vallamkali Pookalam 33,1050,Vallamkali,Lotus,4,Medium,Orchid,Chrysanthemum,Chethi,Green,Pink,Red,4,3.0,5,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a lotus arrangement,3,3,150.14
+444,Vallamkali Pookalam 34,1700,Vallamkali,Star,5,Easy,Daisy,Lotus,Rose,Green,Purple,Red,7,3.9,6,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a star arrangement,3,3,119.34
+445,Vallamkali Pookalam 35,925,Vallamkali,Peacock,9,Medium,Jasmine,Chethi,Chrysanthemum,Orange,White,Green,8,5.5,6,Competition,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock design arrangement,3,3,175.67
+446,Vallamkali Pookalam 36,1775,Vallamkali,Peacock,4,Hard,Orchid,Marigold,Chethi,Yellow,Pink,White,6,3.6,4,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock arrangement,3,3,132.59
+447,Vallamkali Pookalam 37,1675,Vallamkali,Peacock,6,Easy,Orchid,Daisy,Tuberose,Green,Red,White,5,3.8,6,Home,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock arrangement,3,3,174.81
+448,Vallamkali Pookalam 38,825,Vallamkali,Peacock,8,Hard,Daisy,Rose,Chrysanthemum,Orange,White,Purple,8,4.8,3,Competition,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock arrangement,3,3,125.06
+449,Vallamkali Pookalam 39,825,Vallamkali,Lotus,6,Easy,Jasmine,Chrysanthemum,Rose,Green,Yellow,Orange,6,4.1,3,Competition,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a lotus arrangement,3,3,125.97
+450,Vallamkali Pookalam 40,875,Vallamkali,Peacock,8,Hard,Jasmine,Daisy,Tuberose,Yellow,Orange,Red,6,4.7,3,Competition,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock arrangement,3,3,174.17
+451,Vallamkali Pookalam 41,950,Vallamkali,Peacock,4,Medium,Tuberose,Daisy,Chrysanthemum,Red,Pink,Green,7,3.1,6,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock arrangement,3,3,76.17
+452,Vallamkali Pookalam 42,1025,Vallamkali,Circular,4,Medium,Jasmine,Chethi,Orchid,White,Yellow,Orange,4,3.6,5,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a circular arrangement,3,3,158.05
+453,Vallamkali Pookalam 43,875,Vallamkali,Peacock,4,Hard,Daisy,Orchid,Marigold,Yellow,Purple,White,8,2.9,3,School,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock design arrangement,3,3,122.6
+454,Vallamkali Pookalam 44,1225,Vallamkali,Peacock,7,Easy,Tuberose,Orchid,Chrysanthemum,Green,Orange,Pink,7,4.5,3,Competition,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock design arrangement,3,3,207.9
+455,Vallamkali Pookalam 45,1775,Vallamkali,Peacock,9,Medium,Chrysanthemum,Orchid,Daisy,Yellow,Red,Pink,4,5.4,6,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock design arrangement,3,3,247.58
+456,Vallamkali Pookalam 46,1400,Vallamkali,Peacock,9,Easy,Chrysanthemum,Lotus,Rose,Red,White,Purple,7,5.1,5,School,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock arrangement,3,3,180.02
+457,Vallamkali Pookalam 47,1600,Vallamkali,Peacock,8,Easy,Chrysanthemum,Chethi,Jasmine,Yellow,Purple,Red,7,5.3,4,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock design arrangement,3,3,133.53
+458,Vallamkali Pookalam 48,1800,Vallamkali,Circular,9,Medium,Jasmine,Marigold,Chrysanthemum,Red,Purple,Green,9,5.8,3,Competition,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a circular arrangement,3,3,163.8
+459,Vallamkali Pookalam 49,1750,Vallamkali,Star,4,Medium,Chrysanthemum,Orchid,Lotus,Yellow,White,Green,4,3.0,2,Home,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a star arrangement,3,3,124.3
+460,Vallamkali Pookalam 50,1175,Vallamkali,Lotus,5,Hard,Rose,Tuberose,Chethi,Green,Orange,Pink,4,4.0,5,School,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a lotus arrangement,3,3,97.8
+461,Vallamkali Pookalam 51,950,Vallamkali,Circular,7,Hard,Jasmine,Chethi,Lotus,White,Yellow,Red,8,5.0,2,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a circular arrangement,3,3,146.35
+462,Vallamkali Pookalam 52,1625,Vallamkali,Star,5,Easy,Chrysanthemum,Lotus,Tuberose,White,Yellow,Orange,5,4.1,5,School,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a star arrangement,3,3,123.96
+463,Vallamkali Pookalam 53,1800,Vallamkali,Peacock,7,Easy,Rose,Lotus,Chethi,Orange,Purple,Red,8,4.3,6,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a peacock design arrangement,3,3,152.94
+464,Vallamkali Pookalam 54,1100,Vallamkali,Circular,5,Hard,Chrysanthemum,Chethi,Orchid,Yellow,Purple,White,9,3.4,5,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a circular arrangement,3,3,137.83
+465,Vallamkali Pookalam 55,1700,Vallamkali,Star,8,Easy,Lotus,Chethi,Rose,Red,Yellow,Purple,8,4.8,3,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a star arrangement,3,3,190.05
+466,Vallamkali Pookalam 56,900,Vallamkali,Circular,8,Medium,Tuberose,Daisy,Lotus,White,Green,Purple,9,5.1,4,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a circular arrangement,3,3,134.62
+467,Vallamkali Pookalam 57,1425,Vallamkali,Star,4,Hard,Chethi,Chrysanthemum,Orchid,Yellow,Purple,Green,8,3.1,3,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a star arrangement,3,3,101.61
+468,Vallamkali Pookalam 58,1425,Vallamkali,Lotus,7,Hard,Chrysanthemum,Daisy,Lotus,Green,Red,Yellow,7,4.4,3,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a lotus arrangement,3,3,128.81
+469,Vallamkali Pookalam 59,1025,Vallamkali,Circular,8,Hard,Chethi,Tuberose,Chrysanthemum,Orange,Red,Purple,9,4.9,4,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a circular arrangement,3,3,124.89
+470,Vallamkali Pookalam 60,1525,Vallamkali,Circular,7,Hard,Daisy,Lotus,Tuberose,Yellow,Green,Purple,6,4.4,5,Onam,Vallamkali-inspired Onam Pookalam with boat-race themed patterns in a circular arrangement,3,3,148.36
+471,Nilavilakku Pookalam 11,875,Nilavilakku,Temple Style,8,Hard,Orchid,Rose,Daisy,Orange,Yellow,White,7,5.3,2,Competition,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a temple style arrangement,3,3,261.05
+472,Nilavilakku Pookalam 12,875,Nilavilakku,Lotus,6,Hard,Chethi,Daisy,Chrysanthemum,White,Yellow,Pink,6,4.6,3,Competition,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a lotus arrangement,3,3,101.12
+473,Nilavilakku Pookalam 13,1750,Nilavilakku,Temple Style,4,Easy,Tuberose,Daisy,Lotus,Yellow,Purple,Pink,4,2.9,4,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a temple style arrangement,3,3,78.55
+474,Nilavilakku Pookalam 14,1125,Nilavilakku,Temple Style,4,Medium,Orchid,Tuberose,Chethi,Red,Green,Pink,4,3.0,5,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a temple style arrangement,3,3,156.48
+475,Nilavilakku Pookalam 15,1075,Nilavilakku,Star,9,Easy,Chethi,Lotus,Chrysanthemum,Orange,Purple,Yellow,4,5.3,5,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a star arrangement,3,3,160.76
+476,Nilavilakku Pookalam 16,1650,Nilavilakku,Circular,7,Hard,Tuberose,Chethi,Orchid,Red,Purple,White,5,4.5,3,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a circular arrangement,3,3,188.83
+477,Nilavilakku Pookalam 17,1425,Nilavilakku,Circular,5,Medium,Chrysanthemum,Marigold,Jasmine,Red,Yellow,Green,6,3.7,5,Home,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a circular arrangement,3,3,95.22
+478,Nilavilakku Pookalam 18,1300,Nilavilakku,Star,8,Hard,Jasmine,Daisy,Chrysanthemum,Red,Purple,Yellow,5,4.8,5,School,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a star arrangement,3,3,155.98
+479,Nilavilakku Pookalam 19,1250,Nilavilakku,Conch,9,Easy,Lotus,Orchid,Daisy,Green,Pink,Purple,8,5.4,3,Competition,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a conch arrangement,3,3,291.63
+480,Nilavilakku Pookalam 20,1625,Nilavilakku,Conch,7,Medium,Chrysanthemum,Tuberose,Orchid,Orange,Green,Yellow,7,4.6,5,Competition,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a conch arrangement,3,3,199.86
+481,Nilavilakku Pookalam 21,925,Nilavilakku,Lotus,5,Easy,Chethi,Rose,Marigold,Yellow,Pink,Red,6,3.7,3,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a lotus arrangement,3,3,87.57
+482,Nilavilakku Pookalam 22,975,Nilavilakku,Star,4,Medium,Marigold,Chrysanthemum,Daisy,Orange,Red,White,5,3.1,5,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a star arrangement,3,3,64.5
+483,Nilavilakku Pookalam 23,775,Nilavilakku,Star,8,Medium,Marigold,Chrysanthemum,Orchid,Yellow,Red,Purple,8,5.4,6,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a star arrangement,3,3,147.62
+484,Nilavilakku Pookalam 24,1375,Nilavilakku,Conch,4,Hard,Jasmine,Tuberose,Lotus,Green,White,Purple,6,3.3,5,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a conch arrangement,3,3,137.04
+485,Nilavilakku Pookalam 25,1375,Nilavilakku,Conch,6,Easy,Lotus,Rose,Marigold,Orange,White,Pink,8,4.5,2,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a conch arrangement,3,3,151.44
+486,Nilavilakku Pookalam 26,1675,Nilavilakku,Star,6,Hard,Jasmine,Rose,Chethi,Orange,Yellow,Green,8,3.9,3,Competition,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a star arrangement,3,3,122.14
+487,Nilavilakku Pookalam 27,1025,Nilavilakku,Circular,6,Medium,Daisy,Jasmine,Chrysanthemum,Orange,Pink,Purple,5,4.2,3,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a circular arrangement,3,3,111.63
+488,Nilavilakku Pookalam 28,875,Nilavilakku,Temple Style,9,Hard,Rose,Lotus,Tuberose,White,Orange,Pink,8,5.5,4,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a temple style arrangement,3,3,216.72
+489,Nilavilakku Pookalam 29,1300,Nilavilakku,Star,9,Medium,Tuberose,Chethi,Lotus,White,Orange,Green,7,5.5,6,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a star arrangement,3,3,138.24
+490,Nilavilakku Pookalam 30,975,Nilavilakku,Circular,7,Medium,Rose,Chethi,Tuberose,White,Purple,Yellow,6,4.7,3,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a circular arrangement,3,3,117.15
+491,Nilavilakku Pookalam 31,1025,Nilavilakku,Conch,5,Hard,Lotus,Tuberose,Chrysanthemum,Red,Pink,White,8,4.1,2,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a conch arrangement,3,3,138.4
+492,Nilavilakku Pookalam 32,1425,Nilavilakku,Conch,5,Hard,Chethi,Lotus,Chrysanthemum,Yellow,Purple,Orange,6,3.7,4,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a conch arrangement,3,3,109.79
+493,Nilavilakku Pookalam 33,825,Nilavilakku,Temple Style,9,Medium,Daisy,Chrysanthemum,Chethi,Green,Orange,Purple,6,5.3,4,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a temple style arrangement,3,3,118.55
+494,Nilavilakku Pookalam 34,775,Nilavilakku,Conch,9,Hard,Lotus,Tuberose,Chethi,Green,Orange,White,6,5.1,4,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a conch arrangement,3,3,220.95
+495,Nilavilakku Pookalam 35,875,Nilavilakku,Circular,7,Easy,Daisy,Rose,Chethi,Orange,Red,Purple,7,4.9,4,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a circular arrangement,3,3,101.82
+496,Nilavilakku Pookalam 36,1500,Nilavilakku,Temple Style,5,Easy,Chrysanthemum,Daisy,Marigold,Yellow,White,Pink,5,4.0,4,Home,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a temple style arrangement,3,3,75.85
+497,Nilavilakku Pookalam 37,850,Nilavilakku,Lotus,6,Medium,Jasmine,Rose,Orchid,Yellow,White,Orange,7,4.2,6,Home,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a lotus arrangement,3,3,163.98
+498,Nilavilakku Pookalam 38,1275,Nilavilakku,Conch,8,Easy,Tuberose,Jasmine,Orchid,White,Red,Pink,6,4.6,2,Competition,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a conch arrangement,3,3,190.81
+499,Nilavilakku Pookalam 39,1675,Nilavilakku,Conch,5,Hard,Marigold,Lotus,Orchid,White,Pink,Red,6,4.0,4,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a conch arrangement,3,3,153.58
+500,Nilavilakku Pookalam 40,1675,Nilavilakku,Conch,5,Hard,Marigold,Daisy,Tuberose,White,Pink,Red,6,4.0,6,Competition,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a conch arrangement,3,3,89.13
+501,Nilavilakku Pookalam 41,1075,Nilavilakku,Temple Style,7,Hard,Tuberose,Lotus,Marigold,Green,Yellow,Orange,7,4.7,4,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a temple style arrangement,3,3,164.52
+502,Nilavilakku Pookalam 42,1600,Nilavilakku,Star,9,Hard,Marigold,Lotus,Tuberose,Green,Yellow,Purple,5,5.6,6,School,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a star arrangement,3,3,162.96
+503,Nilavilakku Pookalam 43,1675,Nilavilakku,Temple Style,8,Medium,Marigold,Rose,Jasmine,Green,Yellow,Orange,8,5.0,5,Home,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a temple style arrangement,3,3,109.07
+504,Nilavilakku Pookalam 44,1775,Nilavilakku,Star,8,Medium,Lotus,Tuberose,Chrysanthemum,White,Pink,Yellow,4,5.2,3,Home,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a star arrangement,3,3,176.84
+505,Nilavilakku Pookalam 45,1675,Nilavilakku,Conch,4,Hard,Chethi,Tuberose,Lotus,Orange,Green,White,8,3.4,2,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a conch arrangement,3,3,103.62
+506,Nilavilakku Pookalam 46,1050,Nilavilakku,Conch,5,Hard,Daisy,Rose,Chethi,Green,Red,Yellow,4,3.6,2,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a conch arrangement,3,3,93.68
+507,Nilavilakku Pookalam 47,1150,Nilavilakku,Star,7,Medium,Chrysanthemum,Jasmine,Lotus,White,Green,Pink,6,4.9,2,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a star arrangement,3,3,145.12
+508,Nilavilakku Pookalam 48,1450,Nilavilakku,Star,9,Easy,Chethi,Rose,Daisy,White,Red,Pink,6,5.1,4,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a star arrangement,3,3,128.33
+509,Nilavilakku Pookalam 49,1550,Nilavilakku,Circular,6,Medium,Orchid,Daisy,Jasmine,Green,White,Pink,7,4.2,4,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a circular arrangement,3,3,210.3
+510,Nilavilakku Pookalam 50,1125,Nilavilakku,Star,4,Hard,Daisy,Jasmine,Chethi,Orange,Red,Purple,6,3.0,6,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a star arrangement,3,3,93.31
+511,Nilavilakku Pookalam 51,1450,Nilavilakku,Star,4,Hard,Tuberose,Chrysanthemum,Lotus,Green,Red,Pink,4,3.4,4,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a star arrangement,3,3,88.56
+512,Nilavilakku Pookalam 52,825,Nilavilakku,Circular,7,Hard,Daisy,Chrysanthemum,Marigold,Green,White,Purple,5,4.8,3,Competition,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a circular arrangement,3,3,97.92
+513,Nilavilakku Pookalam 53,925,Nilavilakku,Star,6,Hard,Chethi,Jasmine,Rose,White,Green,Purple,8,4.2,2,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a star arrangement,3,3,134.72
+514,Nilavilakku Pookalam 54,1175,Nilavilakku,Star,7,Medium,Chrysanthemum,Rose,Tuberose,Yellow,Pink,Green,7,4.4,6,Home,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a star arrangement,3,3,119.64
+515,Nilavilakku Pookalam 55,1475,Nilavilakku,Lotus,5,Hard,Lotus,Daisy,Rose,White,Green,Pink,8,3.7,4,Competition,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a lotus arrangement,3,3,137.26
+516,Nilavilakku Pookalam 56,1250,Nilavilakku,Temple Style,6,Hard,Lotus,Marigold,Daisy,Red,Orange,Green,4,4.4,6,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a temple style arrangement,3,3,125.68
+517,Nilavilakku Pookalam 57,1675,Nilavilakku,Temple Style,4,Easy,Orchid,Daisy,Chethi,Yellow,Red,Green,4,3.2,3,Home,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a temple style arrangement,3,3,175.35
+518,Nilavilakku Pookalam 58,1075,Nilavilakku,Circular,8,Hard,Tuberose,Daisy,Chrysanthemum,White,Red,Yellow,4,4.8,6,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a circular arrangement,3,3,133.74
+519,Nilavilakku Pookalam 59,1425,Nilavilakku,Circular,4,Medium,Tuberose,Chethi,Orchid,White,Green,Purple,4,3.3,3,Onam,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a circular arrangement,3,3,101.31
+520,Nilavilakku Pookalam 60,975,Nilavilakku,Star,5,Hard,Lotus,Jasmine,Orchid,Red,White,Pink,6,3.8,3,School,Nilavilakku-inspired Onam Pookalam with traditional lamp motifs in a star arrangement,3,3,172.2
+521,Nature Pookalam 11,1150,Nature,Circular,6,Hard,Marigold,Orchid,Rose,White,Yellow,Purple,8,4.3,6,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a circular arrangement,3,3,192.46
+522,Nature Pookalam 12,1600,Nature,Peacock,8,Hard,Orchid,Chrysanthemum,Tuberose,Yellow,Pink,White,4,5.1,6,Competition,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a peacock arrangement,3,3,250.72
+523,Nature Pookalam 13,1325,Nature,Lotus,4,Medium,Marigold,Daisy,Chrysanthemum,Yellow,White,Pink,7,3.1,5,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a lotus arrangement,3,3,60.86
+524,Nature Pookalam 14,875,Nature,Circular,4,Medium,Chrysanthemum,Marigold,Rose,Pink,Red,Green,4,3.5,3,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a circular arrangement,3,3,69.66
+525,Nature Pookalam 15,1825,Nature,Peacock,8,Easy,Chrysanthemum,Chethi,Daisy,Pink,Yellow,Red,9,4.7,3,School,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a peacock arrangement,3,3,112.71
+526,Nature Pookalam 16,775,Nature,Lotus,8,Easy,Rose,Chrysanthemum,Jasmine,Yellow,White,Pink,7,5.4,2,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a lotus arrangement,3,3,136.2
+527,Nature Pookalam 17,1450,Nature,Lotus,9,Easy,Jasmine,Daisy,Rose,Yellow,Green,Red,8,5.3,3,Competition,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a lotus arrangement,3,3,190.06
+528,Nature Pookalam 18,1775,Nature,Butterfly,9,Medium,Jasmine,Daisy,Lotus,Yellow,Pink,Green,8,5.5,4,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a butterfly arrangement,3,3,165.79
+529,Nature Pookalam 19,775,Nature,Peacock,4,Hard,Chrysanthemum,Daisy,Jasmine,Green,Orange,Pink,9,3.3,5,School,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a peacock arrangement,3,3,63.03
+530,Nature Pookalam 20,1475,Nature,Star,5,Hard,Lotus,Rose,Marigold,Orange,Red,Purple,6,4.1,3,School,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a star arrangement,3,3,132.84
+531,Nature Pookalam 21,1225,Nature,Circular,5,Easy,Orchid,Rose,Chrysanthemum,Orange,Green,Pink,9,3.7,3,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a circular arrangement,3,3,175.4
+532,Nature Pookalam 22,1375,Nature,Circular,8,Medium,Chrysanthemum,Daisy,Chethi,Pink,Yellow,Red,9,4.9,3,Home,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a circular arrangement,3,3,115.27
+533,Nature Pookalam 23,1850,Nature,Lotus,9,Medium,Rose,Daisy,Tuberose,Green,Yellow,Red,9,5.5,3,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a lotus arrangement,3,3,127.46
+534,Nature Pookalam 24,1550,Nature,Circular,5,Easy,Daisy,Rose,Marigold,Orange,Yellow,Purple,6,3.4,6,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a circular arrangement,3,3,95.86
+535,Nature Pookalam 25,1650,Nature,Circular,7,Easy,Tuberose,Orchid,Chrysanthemum,Green,Yellow,Pink,8,4.9,6,Home,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a circular arrangement,3,3,192.52
+536,Nature Pookalam 26,1825,Nature,Butterfly,5,Hard,Lotus,Orchid,Daisy,Orange,Purple,Pink,5,3.9,6,Home,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a butterfly arrangement,3,3,181.86
+537,Nature Pookalam 27,750,Nature,Lotus,7,Easy,Jasmine,Lotus,Orchid,Orange,Yellow,White,8,4.3,5,School,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a lotus arrangement,3,3,263.1
+538,Nature Pookalam 28,975,Nature,Circular,8,Easy,Lotus,Daisy,Orchid,Pink,Purple,Orange,7,4.7,6,Competition,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a circular arrangement,3,3,203.51
+539,Nature Pookalam 29,1025,Nature,Star,9,Medium,Daisy,Orchid,Jasmine,Pink,Red,Purple,5,5.3,4,Home,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a star arrangement,3,3,200.84
+540,Nature Pookalam 30,1750,Nature,Butterfly,7,Hard,Daisy,Rose,Jasmine,Orange,Yellow,Green,7,4.8,2,Competition,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a butterfly arrangement,3,3,122.67
+541,Nature Pookalam 31,1575,Nature,Butterfly,9,Hard,Lotus,Rose,Jasmine,White,Green,Pink,6,5.9,3,School,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a butterfly arrangement,3,3,188.1
+542,Nature Pookalam 32,925,Nature,Lotus,5,Medium,Lotus,Marigold,Rose,White,Pink,Orange,5,3.6,2,School,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a lotus arrangement,3,3,119.46
+543,Nature Pookalam 33,1450,Nature,Star,9,Easy,Lotus,Jasmine,Daisy,White,Yellow,Pink,8,5.5,2,Competition,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a star arrangement,3,3,213.72
+544,Nature Pookalam 34,1450,Nature,Star,7,Easy,Marigold,Chrysanthemum,Orchid,Orange,Pink,Green,4,4.3,4,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a star arrangement,3,3,131.66
+545,Nature Pookalam 35,1350,Nature,Peacock,8,Hard,Tuberose,Chethi,Jasmine,Green,Yellow,White,6,5.3,6,School,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a peacock arrangement,3,3,158.68
+546,Nature Pookalam 36,1500,Nature,Circular,9,Medium,Rose,Marigold,Jasmine,Green,White,Yellow,8,5.6,2,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a circular arrangement,3,3,163.23
+547,Nature Pookalam 37,1625,Nature,Lotus,6,Medium,Lotus,Tuberose,Daisy,Pink,Green,Red,5,4.3,6,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a lotus arrangement,3,3,162.61
+548,Nature Pookalam 38,975,Nature,Circular,9,Hard,Daisy,Orchid,Tuberose,White,Green,Red,9,5.1,6,School,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a circular arrangement,3,3,246.38
+549,Nature Pookalam 39,1325,Nature,Butterfly,5,Easy,Orchid,Daisy,Rose,Pink,Green,Yellow,9,3.7,3,Competition,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a butterfly arrangement,3,3,187.79
+550,Nature Pookalam 40,1275,Nature,Circular,4,Hard,Chethi,Daisy,Lotus,Yellow,Orange,Pink,9,3.2,5,Competition,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a circular arrangement,3,3,68.98
+551,Nature Pookalam 41,800,Nature,Butterfly,4,Hard,Tuberose,Rose,Chethi,Yellow,Pink,Green,4,3.7,2,Home,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a butterfly arrangement,3,3,87.66
+552,Nature Pookalam 42,900,Nature,Lotus,8,Medium,Tuberose,Daisy,Chrysanthemum,Pink,Purple,Green,4,4.9,3,School,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a lotus arrangement,3,3,119.87
+553,Nature Pookalam 43,1375,Nature,Butterfly,7,Easy,Lotus,Jasmine,Daisy,White,Green,Pink,4,4.3,2,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a butterfly arrangement,3,3,175.7
+554,Nature Pookalam 44,1000,Nature,Lotus,5,Easy,Rose,Tuberose,Chrysanthemum,Green,Pink,Red,5,3.4,2,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a lotus arrangement,3,3,92.72
+555,Nature Pookalam 45,900,Nature,Circular,7,Hard,Orchid,Jasmine,Daisy,Green,White,Purple,8,4.4,2,Competition,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a circular arrangement,3,3,237.61
+556,Nature Pookalam 46,1550,Nature,Peacock,7,Medium,Orchid,Chrysanthemum,Daisy,Green,White,Pink,8,4.3,4,Home,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a peacock arrangement,3,3,229.1
+557,Nature Pookalam 47,1650,Nature,Circular,9,Easy,Lotus,Orchid,Daisy,White,Orange,Purple,4,5.2,3,Home,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a circular arrangement,3,3,305.98
+558,Nature Pookalam 48,1700,Nature,Circular,9,Medium,Chrysanthemum,Jasmine,Orchid,White,Yellow,Orange,9,5.6,5,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a circular arrangement,3,3,219.15
+559,Nature Pookalam 49,875,Nature,Circular,7,Hard,Chrysanthemum,Lotus,Rose,Orange,Pink,Yellow,7,4.8,5,Home,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a circular arrangement,3,3,155.86
+560,Nature Pookalam 50,800,Nature,Peacock,7,Easy,Marigold,Rose,Tuberose,Yellow,Green,Purple,5,4.9,4,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a peacock arrangement,3,3,103.2
+561,Nature Pookalam 51,1875,Nature,Star,8,Medium,Chethi,Marigold,Tuberose,White,Green,Red,9,4.7,5,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a star arrangement,3,3,120.12
+562,Nature Pookalam 52,1100,Nature,Lotus,5,Hard,Chethi,Chrysanthemum,Daisy,Pink,Purple,Red,8,3.4,3,School,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a lotus arrangement,3,3,76.19
+563,Nature Pookalam 53,1800,Nature,Butterfly,4,Medium,Rose,Tuberose,Jasmine,Pink,White,Purple,6,3.4,4,School,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a butterfly arrangement,3,3,100.07
+564,Nature Pookalam 54,725,Nature,Peacock,6,Medium,Daisy,Lotus,Chrysanthemum,Orange,Yellow,Green,5,4.5,3,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a peacock arrangement,3,3,119.07
+565,Nature Pookalam 55,1200,Nature,Peacock,4,Hard,Chrysanthemum,Lotus,Jasmine,Green,Yellow,Red,4,3.2,2,Competition,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a peacock arrangement,3,3,108.18
+566,Nature Pookalam 56,775,Nature,Butterfly,4,Easy,Orchid,Chethi,Tuberose,Yellow,Pink,White,5,3.0,6,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a butterfly arrangement,3,3,167.76
+567,Nature Pookalam 57,1725,Nature,Butterfly,8,Easy,Tuberose,Orchid,Daisy,White,Orange,Red,4,5.0,6,Competition,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a butterfly arrangement,3,3,243.15
+568,Nature Pookalam 58,1750,Nature,Lotus,8,Medium,Rose,Daisy,Chrysanthemum,Pink,White,Orange,9,5.4,6,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a lotus arrangement,3,3,120.64
+569,Nature Pookalam 59,1500,Nature,Butterfly,9,Easy,Tuberose,Chethi,Orchid,Green,Yellow,Red,4,5.5,5,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a butterfly arrangement,3,3,181.86
+570,Nature Pookalam 60,1250,Nature,Butterfly,7,Hard,Daisy,Marigold,Chrysanthemum,Yellow,Pink,Green,5,4.3,5,Onam,Nature-inspired Onam Pookalam with organic floral and leaf motifs in a butterfly arrangement,3,3,90.5
+571,Wild Pookalam 11,1575,Wild,Peacock,7,Hard,Lotus,Chethi,Chrysanthemum,Pink,Green,Yellow,6,5.0,3,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock arrangement,3,3,160.78
+572,Wild Pookalam 12,1350,Wild,Lotus,4,Easy,Jasmine,Chethi,Tuberose,Purple,Orange,Yellow,9,3.3,2,Competition,Wild-inspired Onam Pookalam with vibrant natural motifs in a lotus arrangement,3,3,102.16
+573,Wild Pookalam 13,1025,Wild,Circular,5,Easy,Rose,Lotus,Chrysanthemum,Green,Orange,Yellow,7,3.7,5,School,Wild-inspired Onam Pookalam with vibrant natural motifs in a circular arrangement,3,3,114.04
+574,Wild Pookalam 14,1150,Wild,Circular,9,Easy,Chethi,Orchid,Lotus,Yellow,Orange,Green,8,5.6,6,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a circular arrangement,3,3,260.0
+575,Wild Pookalam 15,1750,Wild,Lotus,8,Medium,Rose,Chrysanthemum,Chethi,Pink,Red,Green,4,5.1,5,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a lotus arrangement,3,3,138.13
+576,Wild Pookalam 16,1650,Wild,Star,4,Easy,Daisy,Marigold,Orchid,Pink,Yellow,White,5,3.4,5,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a star arrangement,3,3,80.18
+577,Wild Pookalam 17,1300,Wild,Lotus,9,Medium,Daisy,Chethi,Marigold,Purple,Red,White,4,5.1,5,Competition,Wild-inspired Onam Pookalam with vibrant natural motifs in a lotus arrangement,3,3,112.94
+578,Wild Pookalam 18,1075,Wild,Star,4,Hard,Tuberose,Chethi,Orchid,Orange,Purple,Red,9,3.3,3,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a star arrangement,3,3,129.28
+579,Wild Pookalam 19,825,Wild,Peacock,7,Medium,Chrysanthemum,Daisy,Chethi,Red,Orange,Yellow,8,4.4,2,Competition,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock design arrangement,3,3,94.13
+580,Wild Pookalam 20,825,Wild,Star,9,Medium,Rose,Marigold,Chrysanthemum,Red,Pink,Purple,8,5.8,6,School,Wild-inspired Onam Pookalam with vibrant natural motifs in a star arrangement,3,3,153.92
+581,Wild Pookalam 21,800,Wild,Peacock,4,Medium,Daisy,Jasmine,Tuberose,Yellow,Purple,Pink,9,3.7,6,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock arrangement,3,3,85.26
+582,Wild Pookalam 22,1425,Wild,Circular,7,Medium,Tuberose,Daisy,Jasmine,Purple,Green,White,4,4.8,2,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a circular arrangement,3,3,122.98
+583,Wild Pookalam 23,950,Wild,Star,9,Hard,Chrysanthemum,Jasmine,Daisy,Green,White,Yellow,5,5.4,3,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a star arrangement,3,3,142.21
+584,Wild Pookalam 24,1775,Wild,Star,4,Easy,Marigold,Daisy,Jasmine,Green,Red,Orange,6,3.1,5,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a star arrangement,3,3,71.24
+585,Wild Pookalam 25,775,Wild,Star,6,Easy,Orchid,Marigold,Rose,Green,Yellow,White,5,4.5,3,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a star arrangement,3,3,182.94
+586,Wild Pookalam 26,925,Wild,Circular,9,Easy,Lotus,Marigold,Orchid,Red,Orange,Purple,7,5.8,5,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a circular arrangement,3,3,276.78
+587,Wild Pookalam 27,750,Wild,Peacock,6,Easy,Rose,Marigold,Daisy,Purple,Red,Pink,8,3.8,5,Home,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock design arrangement,3,3,105.45
+588,Wild Pookalam 28,1075,Wild,Peacock,7,Easy,Rose,Tuberose,Lotus,Purple,White,Red,6,5.0,2,School,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock arrangement,3,3,121.2
+589,Wild Pookalam 29,1500,Wild,Peacock,5,Medium,Rose,Chrysanthemum,Jasmine,Yellow,White,Pink,4,3.9,5,Home,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock arrangement,3,3,105.42
+590,Wild Pookalam 30,1050,Wild,Star,8,Hard,Jasmine,Orchid,Daisy,Pink,Red,Yellow,6,5.2,3,School,Wild-inspired Onam Pookalam with vibrant natural motifs in a star arrangement,3,3,219.02
+591,Wild Pookalam 31,1075,Wild,Lotus,6,Medium,Rose,Lotus,Tuberose,Purple,White,Orange,6,3.8,3,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a lotus arrangement,3,3,140.1
+592,Wild Pookalam 32,1775,Wild,Peacock,6,Hard,Chrysanthemum,Lotus,Daisy,Purple,White,Green,5,3.8,5,School,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock arrangement,3,3,127.48
+593,Wild Pookalam 33,1275,Wild,Lotus,5,Hard,Chrysanthemum,Jasmine,Lotus,Yellow,Pink,Orange,9,3.5,3,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a lotus arrangement,3,3,116.73
+594,Wild Pookalam 34,1125,Wild,Peacock,9,Easy,Rose,Daisy,Tuberose,Orange,White,Green,7,5.5,2,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock arrangement,3,3,121.73
+595,Wild Pookalam 35,1075,Wild,Star,5,Medium,Chethi,Lotus,Jasmine,Red,Pink,Orange,9,3.4,5,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a star arrangement,3,3,141.85
+596,Wild Pookalam 36,1950,Wild,Circular,4,Easy,Chethi,Lotus,Marigold,Red,Yellow,Green,9,3.1,4,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a circular arrangement,3,3,94.5
+597,Wild Pookalam 37,1425,Wild,Lotus,4,Hard,Lotus,Orchid,Chrysanthemum,Pink,Purple,White,5,3.6,3,School,Wild-inspired Onam Pookalam with vibrant natural motifs in a lotus arrangement,3,3,177.04
+598,Wild Pookalam 38,1675,Wild,Circular,7,Hard,Chethi,Chrysanthemum,Tuberose,Green,White,Orange,8,5.0,3,Home,Wild-inspired Onam Pookalam with vibrant natural motifs in a circular arrangement,3,3,106.87
+599,Wild Pookalam 39,1775,Wild,Lotus,6,Hard,Jasmine,Daisy,Rose,Purple,Orange,Pink,7,4.3,5,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a lotus arrangement,3,3,127.06
+600,Wild Pookalam 40,1025,Wild,Peacock,4,Medium,Rose,Daisy,Chethi,Green,White,Yellow,9,3.2,3,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock arrangement,3,3,85.77
+601,Wild Pookalam 41,1900,Wild,Peacock,5,Hard,Lotus,Chethi,Rose,Yellow,Pink,Red,9,3.9,3,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock arrangement,3,3,146.52
+602,Wild Pookalam 42,1900,Wild,Star,6,Medium,Chrysanthemum,Daisy,Chethi,Orange,Red,Yellow,9,4.4,3,School,Wild-inspired Onam Pookalam with vibrant natural motifs in a star arrangement,3,3,84.01
+603,Wild Pookalam 43,775,Wild,Circular,8,Easy,Daisy,Jasmine,Chethi,Yellow,Green,Purple,8,4.9,5,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a circular arrangement,3,3,141.37
+604,Wild Pookalam 44,1000,Wild,Peacock,7,Medium,Chethi,Orchid,Daisy,Orange,Purple,Green,6,4.5,5,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock arrangement,3,3,184.87
+605,Wild Pookalam 45,1175,Wild,Lotus,5,Easy,Jasmine,Marigold,Orchid,Purple,Red,Yellow,7,4.0,4,Competition,Wild-inspired Onam Pookalam with vibrant natural motifs in a lotus arrangement,3,3,168.61
+606,Wild Pookalam 46,1225,Wild,Peacock,5,Medium,Orchid,Daisy,Tuberose,Pink,Purple,Orange,6,4.0,6,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock design arrangement,3,3,198.33
+607,Wild Pookalam 47,1700,Wild,Peacock,7,Hard,Daisy,Rose,Tuberose,Red,Green,Pink,5,4.6,3,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock design arrangement,3,3,99.12
+608,Wild Pookalam 48,1025,Wild,Peacock,7,Medium,Marigold,Daisy,Orchid,Purple,Pink,White,4,5.0,2,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock design arrangement,3,3,151.87
+609,Wild Pookalam 49,1100,Wild,Lotus,5,Hard,Lotus,Daisy,Chethi,Green,Orange,White,6,3.4,4,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a lotus arrangement,3,3,131.0
+610,Wild Pookalam 50,900,Wild,Peacock,6,Hard,Marigold,Daisy,Rose,Green,Orange,Purple,6,4.4,4,Competition,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock design arrangement,3,3,85.2
+611,Wild Pookalam 51,1775,Wild,Peacock,9,Medium,Daisy,Lotus,Chethi,Orange,Red,Pink,6,5.2,5,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock arrangement,3,3,175.79
+612,Wild Pookalam 52,1275,Wild,Peacock,5,Easy,Tuberose,Rose,Daisy,Orange,Yellow,Green,9,4.1,4,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock arrangement,3,3,105.41
+613,Wild Pookalam 53,1850,Wild,Peacock,9,Medium,Chethi,Rose,Tuberose,Purple,Red,Orange,8,5.6,5,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock design arrangement,3,3,136.29
+614,Wild Pookalam 54,1900,Wild,Lotus,9,Hard,Jasmine,Chethi,Orchid,Pink,Orange,White,8,5.3,5,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a lotus arrangement,3,3,218.35
+615,Wild Pookalam 55,850,Wild,Circular,5,Hard,Daisy,Chethi,Lotus,Orange,Pink,Red,8,3.9,6,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a circular arrangement,3,3,89.31
+616,Wild Pookalam 56,1400,Wild,Lotus,5,Hard,Lotus,Orchid,Marigold,Green,Orange,Pink,8,3.5,4,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a lotus arrangement,3,3,179.84
+617,Wild Pookalam 57,1750,Wild,Star,4,Medium,Daisy,Marigold,Lotus,Orange,Red,Green,6,3.4,4,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a star arrangement,3,3,87.89
+618,Wild Pookalam 58,850,Wild,Star,7,Easy,Jasmine,Lotus,Chrysanthemum,Orange,Green,Red,7,4.6,6,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a star arrangement,3,3,158.59
+619,Wild Pookalam 59,1650,Wild,Star,5,Hard,Lotus,Marigold,Chrysanthemum,Orange,Yellow,Purple,9,3.9,6,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a star arrangement,3,3,114.98
+620,Wild Pookalam 60,1900,Wild,Peacock,7,Easy,Rose,Lotus,Orchid,Purple,Pink,Red,8,5.0,5,Onam,Wild-inspired Onam Pookalam with vibrant natural motifs in a peacock arrangement,3,3,189.2
